@@ -1,0 +1,6003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<inventario>
+    <producto id="1">
+        <nombre>Auriculares 212</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1322.25</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="2">
+        <nombre>Gorra 629</nombre>
+        <categoria>Ropa</categoria>
+        <precio>745.71</precio>
+        <stock>116</stock>
+    </producto>
+    <producto id="3">
+        <nombre>Portátil 670</nombre>
+        <categoria>Informática</categoria>
+        <precio>1082.42</precio>
+        <stock>261</stock>
+    </producto>
+    <producto id="4">
+        <nombre>Zapatos 881</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1011.9</precio>
+        <stock>151</stock>
+    </producto>
+    <producto id="5">
+        <nombre>Altavoz 997</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1103.48</precio>
+        <stock>392</stock>
+    </producto>
+    <producto id="6">
+        <nombre>Cojín 339</nombre>
+        <categoria>Hogar</categoria>
+        <precio>96.31</precio>
+        <stock>306</stock>
+    </producto>
+    <producto id="7">
+        <nombre>Gorra 892</nombre>
+        <categoria>Ropa</categoria>
+        <precio>227.31</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="8">
+        <nombre>Leche 929</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1168.64</precio>
+        <stock>233</stock>
+    </producto>
+    <producto id="9">
+        <nombre>Bufanda 573</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1303.72</precio>
+        <stock>156</stock>
+    </producto>
+    <producto id="10">
+        <nombre>Cereal 576</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1489.93</precio>
+        <stock>461</stock>
+    </producto>
+    <producto id="11">
+        <nombre>Ratón 873</nombre>
+        <categoria>Informática</categoria>
+        <precio>747.53</precio>
+        <stock>347</stock>
+    </producto>
+    <producto id="12">
+        <nombre>Café 278</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>602.67</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="13">
+        <nombre>Arroz 879</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>409.27</precio>
+        <stock>224</stock>
+    </producto>
+    <producto id="14">
+        <nombre>Portátil 733</nombre>
+        <categoria>Informática</categoria>
+        <precio>691.92</precio>
+        <stock>487</stock>
+    </producto>
+    <producto id="15">
+        <nombre>Bicicleta 367</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1053.87</precio>
+        <stock>191</stock>
+    </producto>
+    <producto id="16">
+        <nombre>Impresora 599</nombre>
+        <categoria>Informática</categoria>
+        <precio>364.67</precio>
+        <stock>172</stock>
+    </producto>
+    <producto id="17">
+        <nombre>Impresora 255</nombre>
+        <categoria>Informática</categoria>
+        <precio>444.0</precio>
+        <stock>85</stock>
+    </producto>
+    <producto id="18">
+        <nombre>Bufanda 578</nombre>
+        <categoria>Ropa</categoria>
+        <precio>248.34</precio>
+        <stock>11</stock>
+    </producto>
+    <producto id="19">
+        <nombre>Café 443</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>755.43</precio>
+        <stock>234</stock>
+    </producto>
+    <producto id="20">
+        <nombre>Bufanda 120</nombre>
+        <categoria>Ropa</categoria>
+        <precio>567.54</precio>
+        <stock>3</stock>
+    </producto>
+    <producto id="21">
+        <nombre>Ratón 681</nombre>
+        <categoria>Informática</categoria>
+        <precio>1470.86</precio>
+        <stock>424</stock>
+    </producto>
+    <producto id="22">
+        <nombre>Camiseta 678</nombre>
+        <categoria>Ropa</categoria>
+        <precio>481.11</precio>
+        <stock>202</stock>
+    </producto>
+    <producto id="23">
+        <nombre>Raqueta 173</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1251.6</precio>
+        <stock>154</stock>
+    </producto>
+    <producto id="24">
+        <nombre>Raqueta 621</nombre>
+        <categoria>Deportes</categoria>
+        <precio>724.75</precio>
+        <stock>272</stock>
+    </producto>
+    <producto id="25">
+        <nombre>Smartphone 615</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1158.7</precio>
+        <stock>219</stock>
+    </producto>
+    <producto id="26">
+        <nombre>Lego 368</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1196.89</precio>
+        <stock>322</stock>
+    </producto>
+    <producto id="27">
+        <nombre>Biografía 488</nombre>
+        <categoria>Libros</categoria>
+        <precio>224.56</precio>
+        <stock>26</stock>
+    </producto>
+    <producto id="28">
+        <nombre>Pelota 599</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1001.27</precio>
+        <stock>258</stock>
+    </producto>
+    <producto id="29">
+        <nombre>Lámpara 699</nombre>
+        <categoria>Hogar</categoria>
+        <precio>745.34</precio>
+        <stock>82</stock>
+    </producto>
+    <producto id="30">
+        <nombre>Arroz 218</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>987.39</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="31">
+        <nombre>Mesa 335</nombre>
+        <categoria>Hogar</categoria>
+        <precio>134.96</precio>
+        <stock>58</stock>
+    </producto>
+    <producto id="32">
+        <nombre>Puzzle 667</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>651.47</precio>
+        <stock>425</stock>
+    </producto>
+    <producto id="33">
+        <nombre>Coche de juguete 745</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>292.29</precio>
+        <stock>353</stock>
+    </producto>
+    <producto id="34">
+        <nombre>Aceite 870</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>848.63</precio>
+        <stock>306</stock>
+    </producto>
+    <producto id="35">
+        <nombre>Camiseta 464</nombre>
+        <categoria>Ropa</categoria>
+        <precio>532.56</precio>
+        <stock>38</stock>
+    </producto>
+    <producto id="36">
+        <nombre>Gorra 727</nombre>
+        <categoria>Ropa</categoria>
+        <precio>403.64</precio>
+        <stock>263</stock>
+    </producto>
+    <producto id="37">
+        <nombre>Leche 363</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1257.21</precio>
+        <stock>470</stock>
+    </producto>
+    <producto id="38">
+        <nombre>Teclado 218</nombre>
+        <categoria>Informática</categoria>
+        <precio>389.44</precio>
+        <stock>185</stock>
+    </producto>
+    <producto id="39">
+        <nombre>Portátil 116</nombre>
+        <categoria>Informática</categoria>
+        <precio>1020.97</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="40">
+        <nombre>Bicicleta 409</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1495.1</precio>
+        <stock>230</stock>
+    </producto>
+    <producto id="41">
+        <nombre>Cámara 430</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>551.66</precio>
+        <stock>347</stock>
+    </producto>
+    <producto id="42">
+        <nombre>Disco Duro 523</nombre>
+        <categoria>Informática</categoria>
+        <precio>986.72</precio>
+        <stock>286</stock>
+    </producto>
+    <producto id="43">
+        <nombre>Teclado 680</nombre>
+        <categoria>Informática</categoria>
+        <precio>1067.47</precio>
+        <stock>281</stock>
+    </producto>
+    <producto id="44">
+        <nombre>Auriculares 810</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1435.01</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="45">
+        <nombre>Novela 832</nombre>
+        <categoria>Libros</categoria>
+        <precio>437.62</precio>
+        <stock>378</stock>
+    </producto>
+    <producto id="46">
+        <nombre>Cojín 333</nombre>
+        <categoria>Hogar</categoria>
+        <precio>646.99</precio>
+        <stock>374</stock>
+    </producto>
+    <producto id="47">
+        <nombre>Disco Duro 589</nombre>
+        <categoria>Informática</categoria>
+        <precio>1148.9</precio>
+        <stock>184</stock>
+    </producto>
+    <producto id="48">
+        <nombre>Lámpara 613</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1285.56</precio>
+        <stock>283</stock>
+    </producto>
+    <producto id="49">
+        <nombre>Camiseta 839</nombre>
+        <categoria>Ropa</categoria>
+        <precio>915.94</precio>
+        <stock>468</stock>
+    </producto>
+    <producto id="50">
+        <nombre>Cojín 803</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1370.14</precio>
+        <stock>193</stock>
+    </producto>
+    <producto id="51">
+        <nombre>Monitor 417</nombre>
+        <categoria>Informática</categoria>
+        <precio>637.32</precio>
+        <stock>342</stock>
+    </producto>
+    <producto id="52">
+        <nombre>Teclado 330</nombre>
+        <categoria>Informática</categoria>
+        <precio>1292.57</precio>
+        <stock>266</stock>
+    </producto>
+    <producto id="53">
+        <nombre>Armario 176</nombre>
+        <categoria>Hogar</categoria>
+        <precio>891.25</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="54">
+        <nombre>Disco Duro 759</nombre>
+        <categoria>Informática</categoria>
+        <precio>583.88</precio>
+        <stock>26</stock>
+    </producto>
+    <producto id="55">
+        <nombre>Cómic 516</nombre>
+        <categoria>Libros</categoria>
+        <precio>1248.26</precio>
+        <stock>466</stock>
+    </producto>
+    <producto id="56">
+        <nombre>Monitor 565</nombre>
+        <categoria>Informática</categoria>
+        <precio>1334.53</precio>
+        <stock>315</stock>
+    </producto>
+    <producto id="57">
+        <nombre>Lámpara 269</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1374.18</precio>
+        <stock>406</stock>
+    </producto>
+    <producto id="58">
+        <nombre>Cinta de correr 812</nombre>
+        <categoria>Deportes</categoria>
+        <precio>436.58</precio>
+        <stock>371</stock>
+    </producto>
+    <producto id="59">
+        <nombre>Portátil 113</nombre>
+        <categoria>Informática</categoria>
+        <precio>210.12</precio>
+        <stock>431</stock>
+    </producto>
+    <producto id="60">
+        <nombre>Cereal 599</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1146.37</precio>
+        <stock>216</stock>
+    </producto>
+    <producto id="61">
+        <nombre>Pesas 379</nombre>
+        <categoria>Deportes</categoria>
+        <precio>693.52</precio>
+        <stock>216</stock>
+    </producto>
+    <producto id="62">
+        <nombre>Auriculares 792</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1316.24</precio>
+        <stock>286</stock>
+    </producto>
+    <producto id="63">
+        <nombre>Teclado 941</nombre>
+        <categoria>Informática</categoria>
+        <precio>92.34</precio>
+        <stock>158</stock>
+    </producto>
+    <producto id="64">
+        <nombre>Gorra 271</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1186.8</precio>
+        <stock>469</stock>
+    </producto>
+    <producto id="65">
+        <nombre>Monitor 383</nombre>
+        <categoria>Informática</categoria>
+        <precio>650.59</precio>
+        <stock>40</stock>
+    </producto>
+    <producto id="66">
+        <nombre>Pasta 605</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>322.8</precio>
+        <stock>232</stock>
+    </producto>
+    <producto id="67">
+        <nombre>Cámara 906</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>44.28</precio>
+        <stock>359</stock>
+    </producto>
+    <producto id="68">
+        <nombre>Cereal 238</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>187.25</precio>
+        <stock>47</stock>
+    </producto>
+    <producto id="69">
+        <nombre>Raqueta 172</nombre>
+        <categoria>Deportes</categoria>
+        <precio>671.24</precio>
+        <stock>257</stock>
+    </producto>
+    <producto id="70">
+        <nombre>Zapatos 998</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1008.94</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="71">
+        <nombre>Leche 223</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>521.61</precio>
+        <stock>267</stock>
+    </producto>
+    <producto id="72">
+        <nombre>Drone infantil 906</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>165.59</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="73">
+        <nombre>Camiseta 968</nombre>
+        <categoria>Ropa</categoria>
+        <precio>241.86</precio>
+        <stock>43</stock>
+    </producto>
+    <producto id="74">
+        <nombre>Tablet 691</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>599.56</precio>
+        <stock>238</stock>
+    </producto>
+    <producto id="75">
+        <nombre>Diccionario 853</nombre>
+        <categoria>Libros</categoria>
+        <precio>1339.48</precio>
+        <stock>213</stock>
+    </producto>
+    <producto id="76">
+        <nombre>Café 223</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>497.38</precio>
+        <stock>148</stock>
+    </producto>
+    <producto id="77">
+        <nombre>Novela 492</nombre>
+        <categoria>Libros</categoria>
+        <precio>831.63</precio>
+        <stock>268</stock>
+    </producto>
+    <producto id="78">
+        <nombre>Disco Duro 159</nombre>
+        <categoria>Informática</categoria>
+        <precio>898.56</precio>
+        <stock>276</stock>
+    </producto>
+    <producto id="79">
+        <nombre>Mesa 849</nombre>
+        <categoria>Hogar</categoria>
+        <precio>890.71</precio>
+        <stock>324</stock>
+    </producto>
+    <producto id="80">
+        <nombre>Patines 680</nombre>
+        <categoria>Deportes</categoria>
+        <precio>904.29</precio>
+        <stock>17</stock>
+    </producto>
+    <producto id="81">
+        <nombre>Gorra 683</nombre>
+        <categoria>Ropa</categoria>
+        <precio>924.65</precio>
+        <stock>321</stock>
+    </producto>
+    <producto id="82">
+        <nombre>Café 601</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1471.97</precio>
+        <stock>310</stock>
+    </producto>
+    <producto id="83">
+        <nombre>Televisor 461</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>665.11</precio>
+        <stock>494</stock>
+    </producto>
+    <producto id="84">
+        <nombre>Pasta 734</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>505.48</precio>
+        <stock>72</stock>
+    </producto>
+    <producto id="85">
+        <nombre>Mesa 868</nombre>
+        <categoria>Hogar</categoria>
+        <precio>75.18</precio>
+        <stock>194</stock>
+    </producto>
+    <producto id="86">
+        <nombre>Balón 616</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1197.22</precio>
+        <stock>157</stock>
+    </producto>
+    <producto id="87">
+        <nombre>Gorra 308</nombre>
+        <categoria>Ropa</categoria>
+        <precio>211.16</precio>
+        <stock>462</stock>
+    </producto>
+    <producto id="88">
+        <nombre>Arroz 975</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>465.42</precio>
+        <stock>348</stock>
+    </producto>
+    <producto id="89">
+        <nombre>Auriculares 788</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>219.95</precio>
+        <stock>99</stock>
+    </producto>
+    <producto id="90">
+        <nombre>Disco Duro 351</nombre>
+        <categoria>Informática</categoria>
+        <precio>1304.89</precio>
+        <stock>213</stock>
+    </producto>
+    <producto id="91">
+        <nombre>Pesas 924</nombre>
+        <categoria>Deportes</categoria>
+        <precio>880.43</precio>
+        <stock>192</stock>
+    </producto>
+    <producto id="92">
+        <nombre>Coche de juguete 285</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1497.36</precio>
+        <stock>92</stock>
+    </producto>
+    <producto id="93">
+        <nombre>Novela 322</nombre>
+        <categoria>Libros</categoria>
+        <precio>1179.3</precio>
+        <stock>115</stock>
+    </producto>
+    <producto id="94">
+        <nombre>Leche 342</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>507.57</precio>
+        <stock>96</stock>
+    </producto>
+    <producto id="95">
+        <nombre>Pesas 465</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1263.89</precio>
+        <stock>392</stock>
+    </producto>
+    <producto id="96">
+        <nombre>Mesa 910</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1091.4</precio>
+        <stock>375</stock>
+    </producto>
+    <producto id="97">
+        <nombre>Ensayo 245</nombre>
+        <categoria>Libros</categoria>
+        <precio>725.51</precio>
+        <stock>254</stock>
+    </producto>
+    <producto id="98">
+        <nombre>Lego 895</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>190.69</precio>
+        <stock>242</stock>
+    </producto>
+    <producto id="99">
+        <nombre>Lámpara 605</nombre>
+        <categoria>Hogar</categoria>
+        <precio>310.96</precio>
+        <stock>309</stock>
+    </producto>
+    <producto id="100">
+        <nombre>Impresora 170</nombre>
+        <categoria>Informática</categoria>
+        <precio>975.7</precio>
+        <stock>480</stock>
+    </producto>
+    <producto id="101">
+        <nombre>Biografía 348</nombre>
+        <categoria>Libros</categoria>
+        <precio>597.91</precio>
+        <stock>300</stock>
+    </producto>
+    <producto id="102">
+        <nombre>Cómic 770</nombre>
+        <categoria>Libros</categoria>
+        <precio>104.59</precio>
+        <stock>277</stock>
+    </producto>
+    <producto id="103">
+        <nombre>Diccionario 356</nombre>
+        <categoria>Libros</categoria>
+        <precio>1062.24</precio>
+        <stock>142</stock>
+    </producto>
+    <producto id="104">
+        <nombre>Auriculares 836</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>219.55</precio>
+        <stock>1</stock>
+    </producto>
+    <producto id="105">
+        <nombre>Ratón 933</nombre>
+        <categoria>Informática</categoria>
+        <precio>564.3</precio>
+        <stock>286</stock>
+    </producto>
+    <producto id="106">
+        <nombre>Cereal 771</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1119.47</precio>
+        <stock>94</stock>
+    </producto>
+    <producto id="107">
+        <nombre>Lámpara 111</nombre>
+        <categoria>Hogar</categoria>
+        <precio>311.21</precio>
+        <stock>396</stock>
+    </producto>
+    <producto id="108">
+        <nombre>Muñeca 211</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1299.13</precio>
+        <stock>226</stock>
+    </producto>
+    <producto id="109">
+        <nombre>Pesas 670</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1427.54</precio>
+        <stock>368</stock>
+    </producto>
+    <producto id="110">
+        <nombre>Ratón 303</nombre>
+        <categoria>Informática</categoria>
+        <precio>77.44</precio>
+        <stock>247</stock>
+    </producto>
+    <producto id="111">
+        <nombre>Coche de juguete 648</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>442.85</precio>
+        <stock>127</stock>
+    </producto>
+    <producto id="112">
+        <nombre>Cama 664</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1355.76</precio>
+        <stock>77</stock>
+    </producto>
+    <producto id="113">
+        <nombre>Cinta de correr 523</nombre>
+        <categoria>Deportes</categoria>
+        <precio>405.96</precio>
+        <stock>267</stock>
+    </producto>
+    <producto id="114">
+        <nombre>Raqueta 717</nombre>
+        <categoria>Deportes</categoria>
+        <precio>226.01</precio>
+        <stock>13</stock>
+    </producto>
+    <producto id="115">
+        <nombre>Novela 207</nombre>
+        <categoria>Libros</categoria>
+        <precio>1161.21</precio>
+        <stock>475</stock>
+    </producto>
+    <producto id="116">
+        <nombre>Monitor 896</nombre>
+        <categoria>Informática</categoria>
+        <precio>992.42</precio>
+        <stock>199</stock>
+    </producto>
+    <producto id="117">
+        <nombre>Bicicleta 748</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1290.28</precio>
+        <stock>37</stock>
+    </producto>
+    <producto id="118">
+        <nombre>Disco Duro 105</nombre>
+        <categoria>Informática</categoria>
+        <precio>746.8</precio>
+        <stock>54</stock>
+    </producto>
+    <producto id="119">
+        <nombre>Manual 858</nombre>
+        <categoria>Libros</categoria>
+        <precio>86.75</precio>
+        <stock>186</stock>
+    </producto>
+    <producto id="120">
+        <nombre>Smartphone 983</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>172.26</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="121">
+        <nombre>Impresora 822</nombre>
+        <categoria>Informática</categoria>
+        <precio>54.19</precio>
+        <stock>18</stock>
+    </producto>
+    <producto id="122">
+        <nombre>Ratón 324</nombre>
+        <categoria>Informática</categoria>
+        <precio>910.78</precio>
+        <stock>287</stock>
+    </producto>
+    <producto id="123">
+        <nombre>Silla 625</nombre>
+        <categoria>Hogar</categoria>
+        <precio>424.02</precio>
+        <stock>433</stock>
+    </producto>
+    <producto id="124">
+        <nombre>Tablet 919</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1452.81</precio>
+        <stock>429</stock>
+    </producto>
+    <producto id="125">
+        <nombre>Silla 506</nombre>
+        <categoria>Hogar</categoria>
+        <precio>154.73</precio>
+        <stock>253</stock>
+    </producto>
+    <producto id="126">
+        <nombre>Cinta de correr 557</nombre>
+        <categoria>Deportes</categoria>
+        <precio>485.63</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="127">
+        <nombre>Auriculares 141</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>530.73</precio>
+        <stock>72</stock>
+    </producto>
+    <producto id="128">
+        <nombre>Tablet 996</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1213.62</precio>
+        <stock>375</stock>
+    </producto>
+    <producto id="129">
+        <nombre>Cinta de correr 829</nombre>
+        <categoria>Deportes</categoria>
+        <precio>312.54</precio>
+        <stock>406</stock>
+    </producto>
+    <producto id="130">
+        <nombre>Leche 378</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>877.39</precio>
+        <stock>264</stock>
+    </producto>
+    <producto id="131">
+        <nombre>Patines 648</nombre>
+        <categoria>Deportes</categoria>
+        <precio>72.15</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="132">
+        <nombre>Impresora 881</nombre>
+        <categoria>Informática</categoria>
+        <precio>1171.45</precio>
+        <stock>98</stock>
+    </producto>
+    <producto id="133">
+        <nombre>Novela 166</nombre>
+        <categoria>Libros</categoria>
+        <precio>1102.65</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="134">
+        <nombre>Chaqueta 636</nombre>
+        <categoria>Ropa</categoria>
+        <precio>229.1</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="135">
+        <nombre>Leche 272</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>363.05</precio>
+        <stock>491</stock>
+    </producto>
+    <producto id="136">
+        <nombre>Televisor 427</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>851.69</precio>
+        <stock>270</stock>
+    </producto>
+    <producto id="137">
+        <nombre>Diccionario 360</nombre>
+        <categoria>Libros</categoria>
+        <precio>662.46</precio>
+        <stock>295</stock>
+    </producto>
+    <producto id="138">
+        <nombre>Coche de juguete 794</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>503.25</precio>
+        <stock>326</stock>
+    </producto>
+    <producto id="139">
+        <nombre>Café 848</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>720.33</precio>
+        <stock>386</stock>
+    </producto>
+    <producto id="140">
+        <nombre>Cámara 587</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>691.92</precio>
+        <stock>80</stock>
+    </producto>
+    <producto id="141">
+        <nombre>Chaqueta 799</nombre>
+        <categoria>Ropa</categoria>
+        <precio>86.08</precio>
+        <stock>384</stock>
+    </producto>
+    <producto id="142">
+        <nombre>Manual 991</nombre>
+        <categoria>Libros</categoria>
+        <precio>895.96</precio>
+        <stock>212</stock>
+    </producto>
+    <producto id="143">
+        <nombre>Leche 352</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>130.7</precio>
+        <stock>310</stock>
+    </producto>
+    <producto id="144">
+        <nombre>Balón 826</nombre>
+        <categoria>Deportes</categoria>
+        <precio>586.57</precio>
+        <stock>472</stock>
+    </producto>
+    <producto id="145">
+        <nombre>Novela 633</nombre>
+        <categoria>Libros</categoria>
+        <precio>875.97</precio>
+        <stock>187</stock>
+    </producto>
+    <producto id="146">
+        <nombre>Pantalón 389</nombre>
+        <categoria>Ropa</categoria>
+        <precio>460.78</precio>
+        <stock>352</stock>
+    </producto>
+    <producto id="147">
+        <nombre>Aceite 789</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1350.83</precio>
+        <stock>21</stock>
+    </producto>
+    <producto id="148">
+        <nombre>Bufanda 582</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1316.77</precio>
+        <stock>78</stock>
+    </producto>
+    <producto id="149">
+        <nombre>Ensayo 381</nombre>
+        <categoria>Libros</categoria>
+        <precio>1409.4</precio>
+        <stock>429</stock>
+    </producto>
+    <producto id="150">
+        <nombre>Disco Duro 414</nombre>
+        <categoria>Informática</categoria>
+        <precio>519.9</precio>
+        <stock>484</stock>
+    </producto>
+    <producto id="151">
+        <nombre>Chaqueta 801</nombre>
+        <categoria>Ropa</categoria>
+        <precio>816.33</precio>
+        <stock>355</stock>
+    </producto>
+    <producto id="152">
+        <nombre>Lego 296</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1314.74</precio>
+        <stock>159</stock>
+    </producto>
+    <producto id="153">
+        <nombre>Altavoz 128</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1459.01</precio>
+        <stock>177</stock>
+    </producto>
+    <producto id="154">
+        <nombre>Lego 896</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>315.5</precio>
+        <stock>23</stock>
+    </producto>
+    <producto id="155">
+        <nombre>Portátil 866</nombre>
+        <categoria>Informática</categoria>
+        <precio>1156.85</precio>
+        <stock>430</stock>
+    </producto>
+    <producto id="156">
+        <nombre>Café 545</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1019.52</precio>
+        <stock>434</stock>
+    </producto>
+    <producto id="157">
+        <nombre>Ratón 592</nombre>
+        <categoria>Informática</categoria>
+        <precio>790.54</precio>
+        <stock>92</stock>
+    </producto>
+    <producto id="158">
+        <nombre>Silla 346</nombre>
+        <categoria>Hogar</categoria>
+        <precio>145.38</precio>
+        <stock>169</stock>
+    </producto>
+    <producto id="159">
+        <nombre>Tablet 585</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>219.56</precio>
+        <stock>272</stock>
+    </producto>
+    <producto id="160">
+        <nombre>Aceite 323</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>668.19</precio>
+        <stock>380</stock>
+    </producto>
+    <producto id="161">
+        <nombre>Mesa 638</nombre>
+        <categoria>Hogar</categoria>
+        <precio>346.77</precio>
+        <stock>224</stock>
+    </producto>
+    <producto id="162">
+        <nombre>Mesa 384</nombre>
+        <categoria>Hogar</categoria>
+        <precio>265.91</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="163">
+        <nombre>Cereal 478</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1099.2</precio>
+        <stock>433</stock>
+    </producto>
+    <producto id="164">
+        <nombre>Ratón 112</nombre>
+        <categoria>Informática</categoria>
+        <precio>1136.84</precio>
+        <stock>177</stock>
+    </producto>
+    <producto id="165">
+        <nombre>Disco Duro 515</nombre>
+        <categoria>Informática</categoria>
+        <precio>115.88</precio>
+        <stock>405</stock>
+    </producto>
+    <producto id="166">
+        <nombre>Gorra 745</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1121.02</precio>
+        <stock>39</stock>
+    </producto>
+    <producto id="167">
+        <nombre>Pesas 271</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1495.84</precio>
+        <stock>437</stock>
+    </producto>
+    <producto id="168">
+        <nombre>Smartphone 243</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1267.8</precio>
+        <stock>381</stock>
+    </producto>
+    <producto id="169">
+        <nombre>Cinta de correr 352</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1162.79</precio>
+        <stock>322</stock>
+    </producto>
+    <producto id="170">
+        <nombre>Mesa 437</nombre>
+        <categoria>Hogar</categoria>
+        <precio>359.59</precio>
+        <stock>129</stock>
+    </producto>
+    <producto id="171">
+        <nombre>Camiseta 450</nombre>
+        <categoria>Ropa</categoria>
+        <precio>82.17</precio>
+        <stock>99</stock>
+    </producto>
+    <producto id="172">
+        <nombre>Ensayo 334</nombre>
+        <categoria>Libros</categoria>
+        <precio>1195.59</precio>
+        <stock>339</stock>
+    </producto>
+    <producto id="173">
+        <nombre>Biografía 872</nombre>
+        <categoria>Libros</categoria>
+        <precio>217.9</precio>
+        <stock>90</stock>
+    </producto>
+    <producto id="174">
+        <nombre>Bicicleta 461</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1454.38</precio>
+        <stock>197</stock>
+    </producto>
+    <producto id="175">
+        <nombre>Aceite 849</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>59.52</precio>
+        <stock>4</stock>
+    </producto>
+    <producto id="176">
+        <nombre>Impresora 880</nombre>
+        <categoria>Informática</categoria>
+        <precio>1132.19</precio>
+        <stock>358</stock>
+    </producto>
+    <producto id="177">
+        <nombre>Ratón 209</nombre>
+        <categoria>Informática</categoria>
+        <precio>205.94</precio>
+        <stock>54</stock>
+    </producto>
+    <producto id="178">
+        <nombre>Cómic 238</nombre>
+        <categoria>Libros</categoria>
+        <precio>414.97</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="179">
+        <nombre>Auriculares 406</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>759.17</precio>
+        <stock>79</stock>
+    </producto>
+    <producto id="180">
+        <nombre>Balón 813</nombre>
+        <categoria>Deportes</categoria>
+        <precio>326.8</precio>
+        <stock>168</stock>
+    </producto>
+    <producto id="181">
+        <nombre>Diccionario 653</nombre>
+        <categoria>Libros</categoria>
+        <precio>1473.71</precio>
+        <stock>320</stock>
+    </producto>
+    <producto id="182">
+        <nombre>Monitor 461</nombre>
+        <categoria>Informática</categoria>
+        <precio>22.4</precio>
+        <stock>30</stock>
+    </producto>
+    <producto id="183">
+        <nombre>Camiseta 275</nombre>
+        <categoria>Ropa</categoria>
+        <precio>768.26</precio>
+        <stock>141</stock>
+    </producto>
+    <producto id="184">
+        <nombre>Impresora 767</nombre>
+        <categoria>Informática</categoria>
+        <precio>489.86</precio>
+        <stock>428</stock>
+    </producto>
+    <producto id="185">
+        <nombre>Café 730</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>899.76</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="186">
+        <nombre>Auriculares 730</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>550.43</precio>
+        <stock>42</stock>
+    </producto>
+    <producto id="187">
+        <nombre>Novela 294</nombre>
+        <categoria>Libros</categoria>
+        <precio>1064.13</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="188">
+        <nombre>Camiseta 249</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1476.0</precio>
+        <stock>494</stock>
+    </producto>
+    <producto id="189">
+        <nombre>Arroz 265</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>385.37</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="190">
+        <nombre>Coche de juguete 747</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>342.41</precio>
+        <stock>178</stock>
+    </producto>
+    <producto id="191">
+        <nombre>Patines 429</nombre>
+        <categoria>Deportes</categoria>
+        <precio>11.56</precio>
+        <stock>55</stock>
+    </producto>
+    <producto id="192">
+        <nombre>Manual 238</nombre>
+        <categoria>Libros</categoria>
+        <precio>492.15</precio>
+        <stock>77</stock>
+    </producto>
+    <producto id="193">
+        <nombre>Mesa 311</nombre>
+        <categoria>Hogar</categoria>
+        <precio>974.7</precio>
+        <stock>165</stock>
+    </producto>
+    <producto id="194">
+        <nombre>Café 633</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>815.32</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="195">
+        <nombre>Coche de juguete 264</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>265.93</precio>
+        <stock>319</stock>
+    </producto>
+    <producto id="196">
+        <nombre>Cojín 483</nombre>
+        <categoria>Hogar</categoria>
+        <precio>128.68</precio>
+        <stock>181</stock>
+    </producto>
+    <producto id="197">
+        <nombre>Camiseta 604</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1298.98</precio>
+        <stock>459</stock>
+    </producto>
+    <producto id="198">
+        <nombre>Puzzle 672</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>460.02</precio>
+        <stock>13</stock>
+    </producto>
+    <producto id="199">
+        <nombre>Balón 130</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1042.98</precio>
+        <stock>445</stock>
+    </producto>
+    <producto id="200">
+        <nombre>Mesa 466</nombre>
+        <categoria>Hogar</categoria>
+        <precio>420.86</precio>
+        <stock>316</stock>
+    </producto>
+    <producto id="201">
+        <nombre>Pantalón 934</nombre>
+        <categoria>Ropa</categoria>
+        <precio>649.72</precio>
+        <stock>493</stock>
+    </producto>
+    <producto id="202">
+        <nombre>Chaqueta 252</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1475.77</precio>
+        <stock>293</stock>
+    </producto>
+    <producto id="203">
+        <nombre>Pesas 516</nombre>
+        <categoria>Deportes</categoria>
+        <precio>985.81</precio>
+        <stock>475</stock>
+    </producto>
+    <producto id="204">
+        <nombre>Portátil 991</nombre>
+        <categoria>Informática</categoria>
+        <precio>509.19</precio>
+        <stock>277</stock>
+    </producto>
+    <producto id="205">
+        <nombre>Raqueta 347</nombre>
+        <categoria>Deportes</categoria>
+        <precio>970.48</precio>
+        <stock>214</stock>
+    </producto>
+    <producto id="206">
+        <nombre>Café 851</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1121.66</precio>
+        <stock>404</stock>
+    </producto>
+    <producto id="207">
+        <nombre>Ratón 258</nombre>
+        <categoria>Informática</categoria>
+        <precio>936.02</precio>
+        <stock>69</stock>
+    </producto>
+    <producto id="208">
+        <nombre>Silla 602</nombre>
+        <categoria>Hogar</categoria>
+        <precio>782.55</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="209">
+        <nombre>Altavoz 736</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>216.74</precio>
+        <stock>320</stock>
+    </producto>
+    <producto id="210">
+        <nombre>Cinta de correr 271</nombre>
+        <categoria>Deportes</categoria>
+        <precio>397.13</precio>
+        <stock>14</stock>
+    </producto>
+    <producto id="211">
+        <nombre>Tablet 848</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>255.63</precio>
+        <stock>365</stock>
+    </producto>
+    <producto id="212">
+        <nombre>Bufanda 914</nombre>
+        <categoria>Ropa</categoria>
+        <precio>603.31</precio>
+        <stock>445</stock>
+    </producto>
+    <producto id="213">
+        <nombre>Muñeca 469</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1028.98</precio>
+        <stock>406</stock>
+    </producto>
+    <producto id="214">
+        <nombre>Zapatos 886</nombre>
+        <categoria>Ropa</categoria>
+        <precio>911.18</precio>
+        <stock>428</stock>
+    </producto>
+    <producto id="215">
+        <nombre>Chaqueta 543</nombre>
+        <categoria>Ropa</categoria>
+        <precio>905.39</precio>
+        <stock>239</stock>
+    </producto>
+    <producto id="216">
+        <nombre>Manual 489</nombre>
+        <categoria>Libros</categoria>
+        <precio>1104.39</precio>
+        <stock>251</stock>
+    </producto>
+    <producto id="217">
+        <nombre>Diccionario 812</nombre>
+        <categoria>Libros</categoria>
+        <precio>1130.46</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="218">
+        <nombre>Cámara 653</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1345.8</precio>
+        <stock>205</stock>
+    </producto>
+    <producto id="219">
+        <nombre>Drone infantil 862</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>183.25</precio>
+        <stock>368</stock>
+    </producto>
+    <producto id="220">
+        <nombre>Cámara 715</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>8.46</precio>
+        <stock>302</stock>
+    </producto>
+    <producto id="221">
+        <nombre>Monitor 959</nombre>
+        <categoria>Informática</categoria>
+        <precio>545.25</precio>
+        <stock>188</stock>
+    </producto>
+    <producto id="222">
+        <nombre>Cámara 307</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>402.63</precio>
+        <stock>474</stock>
+    </producto>
+    <producto id="223">
+        <nombre>Ensayo 864</nombre>
+        <categoria>Libros</categoria>
+        <precio>1050.54</precio>
+        <stock>95</stock>
+    </producto>
+    <producto id="224">
+        <nombre>Cámara 495</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>304.91</precio>
+        <stock>167</stock>
+    </producto>
+    <producto id="225">
+        <nombre>Portátil 576</nombre>
+        <categoria>Informática</categoria>
+        <precio>809.56</precio>
+        <stock>483</stock>
+    </producto>
+    <producto id="226">
+        <nombre>Cámara 996</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1205.31</precio>
+        <stock>88</stock>
+    </producto>
+    <producto id="227">
+        <nombre>Armario 278</nombre>
+        <categoria>Hogar</categoria>
+        <precio>197.71</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="228">
+        <nombre>Pantalón 903</nombre>
+        <categoria>Ropa</categoria>
+        <precio>42.36</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="229">
+        <nombre>Patines 203</nombre>
+        <categoria>Deportes</categoria>
+        <precio>357.67</precio>
+        <stock>496</stock>
+    </producto>
+    <producto id="230">
+        <nombre>Pasta 518</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>919.44</precio>
+        <stock>223</stock>
+    </producto>
+    <producto id="231">
+        <nombre>Portátil 756</nombre>
+        <categoria>Informática</categoria>
+        <precio>398.05</precio>
+        <stock>129</stock>
+    </producto>
+    <producto id="232">
+        <nombre>Cinta de correr 669</nombre>
+        <categoria>Deportes</categoria>
+        <precio>131.33</precio>
+        <stock>499</stock>
+    </producto>
+    <producto id="233">
+        <nombre>Auriculares 274</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>416.68</precio>
+        <stock>495</stock>
+    </producto>
+    <producto id="234">
+        <nombre>Drone infantil 104</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>808.78</precio>
+        <stock>73</stock>
+    </producto>
+    <producto id="235">
+        <nombre>Ratón 539</nombre>
+        <categoria>Informática</categoria>
+        <precio>902.38</precio>
+        <stock>1</stock>
+    </producto>
+    <producto id="236">
+        <nombre>Pantalón 517</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1110.97</precio>
+        <stock>120</stock>
+    </producto>
+    <producto id="237">
+        <nombre>Coche de juguete 753</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>321.25</precio>
+        <stock>30</stock>
+    </producto>
+    <producto id="238">
+        <nombre>Teclado 298</nombre>
+        <categoria>Informática</categoria>
+        <precio>149.92</precio>
+        <stock>393</stock>
+    </producto>
+    <producto id="239">
+        <nombre>Cómic 388</nombre>
+        <categoria>Libros</categoria>
+        <precio>23.12</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="240">
+        <nombre>Raqueta 705</nombre>
+        <categoria>Deportes</categoria>
+        <precio>472.25</precio>
+        <stock>358</stock>
+    </producto>
+    <producto id="241">
+        <nombre>Smartphone 663</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>427.44</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="242">
+        <nombre>Pasta 827</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1045.12</precio>
+        <stock>206</stock>
+    </producto>
+    <producto id="243">
+        <nombre>Pasta 203</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1452.55</precio>
+        <stock>8</stock>
+    </producto>
+    <producto id="244">
+        <nombre>Altavoz 387</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>200.93</precio>
+        <stock>311</stock>
+    </producto>
+    <producto id="245">
+        <nombre>Bufanda 209</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1243.11</precio>
+        <stock>296</stock>
+    </producto>
+    <producto id="246">
+        <nombre>Teclado 515</nombre>
+        <categoria>Informática</categoria>
+        <precio>1049.58</precio>
+        <stock>66</stock>
+    </producto>
+    <producto id="247">
+        <nombre>Bicicleta 123</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1474.49</precio>
+        <stock>381</stock>
+    </producto>
+    <producto id="248">
+        <nombre>Patines 171</nombre>
+        <categoria>Deportes</categoria>
+        <precio>975.35</precio>
+        <stock>75</stock>
+    </producto>
+    <producto id="249">
+        <nombre>Novela 520</nombre>
+        <categoria>Libros</categoria>
+        <precio>226.39</precio>
+        <stock>174</stock>
+    </producto>
+    <producto id="250">
+        <nombre>Cinta de correr 536</nombre>
+        <categoria>Deportes</categoria>
+        <precio>812.75</precio>
+        <stock>32</stock>
+    </producto>
+    <producto id="251">
+        <nombre>Manual 804</nombre>
+        <categoria>Libros</categoria>
+        <precio>165.4</precio>
+        <stock>357</stock>
+    </producto>
+    <producto id="252">
+        <nombre>Smartphone 810</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>902.77</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="253">
+        <nombre>Mesa 406</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1410.21</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="254">
+        <nombre>Bufanda 795</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1344.95</precio>
+        <stock>208</stock>
+    </producto>
+    <producto id="255">
+        <nombre>Muñeca 847</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1269.96</precio>
+        <stock>279</stock>
+    </producto>
+    <producto id="256">
+        <nombre>Lámpara 493</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1272.74</precio>
+        <stock>287</stock>
+    </producto>
+    <producto id="257">
+        <nombre>Cereal 374</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1036.29</precio>
+        <stock>145</stock>
+    </producto>
+    <producto id="258">
+        <nombre>Raqueta 704</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1098.13</precio>
+        <stock>12</stock>
+    </producto>
+    <producto id="259">
+        <nombre>Pelota 771</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1366.91</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="260">
+        <nombre>Balón 931</nombre>
+        <categoria>Deportes</categoria>
+        <precio>704.68</precio>
+        <stock>185</stock>
+    </producto>
+    <producto id="261">
+        <nombre>Portátil 904</nombre>
+        <categoria>Informática</categoria>
+        <precio>173.37</precio>
+        <stock>154</stock>
+    </producto>
+    <producto id="262">
+        <nombre>Coche de juguete 130</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>807.48</precio>
+        <stock>94</stock>
+    </producto>
+    <producto id="263">
+        <nombre>Drone infantil 257</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>36.22</precio>
+        <stock>489</stock>
+    </producto>
+    <producto id="264">
+        <nombre>Chaqueta 468</nombre>
+        <categoria>Ropa</categoria>
+        <precio>938.12</precio>
+        <stock>73</stock>
+    </producto>
+    <producto id="265">
+        <nombre>Auriculares 395</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1110.26</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="266">
+        <nombre>Pesas 902</nombre>
+        <categoria>Deportes</categoria>
+        <precio>766.14</precio>
+        <stock>307</stock>
+    </producto>
+    <producto id="267">
+        <nombre>Puzzle 896</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>595.66</precio>
+        <stock>406</stock>
+    </producto>
+    <producto id="268">
+        <nombre>Pantalón 105</nombre>
+        <categoria>Ropa</categoria>
+        <precio>963.88</precio>
+        <stock>337</stock>
+    </producto>
+    <producto id="269">
+        <nombre>Café 190</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1261.08</precio>
+        <stock>202</stock>
+    </producto>
+    <producto id="270">
+        <nombre>Cámara 963</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>410.05</precio>
+        <stock>88</stock>
+    </producto>
+    <producto id="271">
+        <nombre>Manual 984</nombre>
+        <categoria>Libros</categoria>
+        <precio>1017.8</precio>
+        <stock>393</stock>
+    </producto>
+    <producto id="272">
+        <nombre>Mesa 768</nombre>
+        <categoria>Hogar</categoria>
+        <precio>954.77</precio>
+        <stock>318</stock>
+    </producto>
+    <producto id="273">
+        <nombre>Raqueta 672</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1381.37</precio>
+        <stock>155</stock>
+    </producto>
+    <producto id="274">
+        <nombre>Pasta 531</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>458.79</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="275">
+        <nombre>Bufanda 751</nombre>
+        <categoria>Ropa</categoria>
+        <precio>815.35</precio>
+        <stock>85</stock>
+    </producto>
+    <producto id="276">
+        <nombre>Camiseta 746</nombre>
+        <categoria>Ropa</categoria>
+        <precio>934.84</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="277">
+        <nombre>Raqueta 582</nombre>
+        <categoria>Deportes</categoria>
+        <precio>753.09</precio>
+        <stock>168</stock>
+    </producto>
+    <producto id="278">
+        <nombre>Balón 984</nombre>
+        <categoria>Deportes</categoria>
+        <precio>837.82</precio>
+        <stock>427</stock>
+    </producto>
+    <producto id="279">
+        <nombre>Portátil 742</nombre>
+        <categoria>Informática</categoria>
+        <precio>1429.32</precio>
+        <stock>57</stock>
+    </producto>
+    <producto id="280">
+        <nombre>Arroz 420</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>727.94</precio>
+        <stock>247</stock>
+    </producto>
+    <producto id="281">
+        <nombre>Pelota 898</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>718.56</precio>
+        <stock>132</stock>
+    </producto>
+    <producto id="282">
+        <nombre>Drone infantil 665</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>11.49</precio>
+        <stock>119</stock>
+    </producto>
+    <producto id="283">
+        <nombre>Mesa 217</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1457.41</precio>
+        <stock>288</stock>
+    </producto>
+    <producto id="284">
+        <nombre>Auriculares 755</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>954.22</precio>
+        <stock>316</stock>
+    </producto>
+    <producto id="285">
+        <nombre>Manual 340</nombre>
+        <categoria>Libros</categoria>
+        <precio>686.18</precio>
+        <stock>264</stock>
+    </producto>
+    <producto id="286">
+        <nombre>Bufanda 391</nombre>
+        <categoria>Ropa</categoria>
+        <precio>891.07</precio>
+        <stock>310</stock>
+    </producto>
+    <producto id="287">
+        <nombre>Camiseta 865</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1120.67</precio>
+        <stock>275</stock>
+    </producto>
+    <producto id="288">
+        <nombre>Cinta de correr 144</nombre>
+        <categoria>Deportes</categoria>
+        <precio>455.73</precio>
+        <stock>10</stock>
+    </producto>
+    <producto id="289">
+        <nombre>Monitor 565</nombre>
+        <categoria>Informática</categoria>
+        <precio>1416.36</precio>
+        <stock>236</stock>
+    </producto>
+    <producto id="290">
+        <nombre>Raqueta 543</nombre>
+        <categoria>Deportes</categoria>
+        <precio>564.09</precio>
+        <stock>300</stock>
+    </producto>
+    <producto id="291">
+        <nombre>Muñeca 787</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>586.06</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="292">
+        <nombre>Smartphone 933</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1042.89</precio>
+        <stock>85</stock>
+    </producto>
+    <producto id="293">
+        <nombre>Auriculares 888</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>850.55</precio>
+        <stock>4</stock>
+    </producto>
+    <producto id="294">
+        <nombre>Gorra 710</nombre>
+        <categoria>Ropa</categoria>
+        <precio>217.36</precio>
+        <stock>490</stock>
+    </producto>
+    <producto id="295">
+        <nombre>Auriculares 627</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>41.09</precio>
+        <stock>486</stock>
+    </producto>
+    <producto id="296">
+        <nombre>Leche 159</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1425.42</precio>
+        <stock>343</stock>
+    </producto>
+    <producto id="297">
+        <nombre>Zapatos 833</nombre>
+        <categoria>Ropa</categoria>
+        <precio>483.37</precio>
+        <stock>208</stock>
+    </producto>
+    <producto id="298">
+        <nombre>Impresora 519</nombre>
+        <categoria>Informática</categoria>
+        <precio>656.88</precio>
+        <stock>83</stock>
+    </producto>
+    <producto id="299">
+        <nombre>Pelota 905</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1177.5</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="300">
+        <nombre>Muñeca 594</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1107.91</precio>
+        <stock>425</stock>
+    </producto>
+    <producto id="301">
+        <nombre>Televisor 102</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>346.35</precio>
+        <stock>266</stock>
+    </producto>
+    <producto id="302">
+        <nombre>Disco Duro 109</nombre>
+        <categoria>Informática</categoria>
+        <precio>405.96</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="303">
+        <nombre>Raqueta 889</nombre>
+        <categoria>Deportes</categoria>
+        <precio>135.54</precio>
+        <stock>165</stock>
+    </producto>
+    <producto id="304">
+        <nombre>Arroz 421</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>640.0</precio>
+        <stock>401</stock>
+    </producto>
+    <producto id="305">
+        <nombre>Cereal 814</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>299.64</precio>
+        <stock>273</stock>
+    </producto>
+    <producto id="306">
+        <nombre>Cama 442</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1192.87</precio>
+        <stock>251</stock>
+    </producto>
+    <producto id="307">
+        <nombre>Leche 898</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1069.38</precio>
+        <stock>446</stock>
+    </producto>
+    <producto id="308">
+        <nombre>Zapatos 115</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1191.1</precio>
+        <stock>418</stock>
+    </producto>
+    <producto id="309">
+        <nombre>Diccionario 991</nombre>
+        <categoria>Libros</categoria>
+        <precio>433.08</precio>
+        <stock>64</stock>
+    </producto>
+    <producto id="310">
+        <nombre>Cama 564</nombre>
+        <categoria>Hogar</categoria>
+        <precio>608.22</precio>
+        <stock>47</stock>
+    </producto>
+    <producto id="311">
+        <nombre>Camiseta 836</nombre>
+        <categoria>Ropa</categoria>
+        <precio>589.95</precio>
+        <stock>256</stock>
+    </producto>
+    <producto id="312">
+        <nombre>Cámara 465</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1323.23</precio>
+        <stock>377</stock>
+    </producto>
+    <producto id="313">
+        <nombre>Silla 601</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1288.65</precio>
+        <stock>64</stock>
+    </producto>
+    <producto id="314">
+        <nombre>Bufanda 499</nombre>
+        <categoria>Ropa</categoria>
+        <precio>384.28</precio>
+        <stock>450</stock>
+    </producto>
+    <producto id="315">
+        <nombre>Lámpara 973</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1478.47</precio>
+        <stock>222</stock>
+    </producto>
+    <producto id="316">
+        <nombre>Muñeca 689</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1073.49</precio>
+        <stock>27</stock>
+    </producto>
+    <producto id="317">
+        <nombre>Novela 253</nombre>
+        <categoria>Libros</categoria>
+        <precio>954.87</precio>
+        <stock>362</stock>
+    </producto>
+    <producto id="318">
+        <nombre>Patines 975</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1215.95</precio>
+        <stock>77</stock>
+    </producto>
+    <producto id="319">
+        <nombre>Chaqueta 633</nombre>
+        <categoria>Ropa</categoria>
+        <precio>506.68</precio>
+        <stock>75</stock>
+    </producto>
+    <producto id="320">
+        <nombre>Mesa 847</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1072.7</precio>
+        <stock>408</stock>
+    </producto>
+    <producto id="321">
+        <nombre>Gorra 525</nombre>
+        <categoria>Ropa</categoria>
+        <precio>991.95</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="322">
+        <nombre>Zapatos 947</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1168.24</precio>
+        <stock>191</stock>
+    </producto>
+    <producto id="323">
+        <nombre>Monitor 865</nombre>
+        <categoria>Informática</categoria>
+        <precio>1397.08</precio>
+        <stock>74</stock>
+    </producto>
+    <producto id="324">
+        <nombre>Tablet 261</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1375.2</precio>
+        <stock>35</stock>
+    </producto>
+    <producto id="325">
+        <nombre>Novela 551</nombre>
+        <categoria>Libros</categoria>
+        <precio>12.9</precio>
+        <stock>114</stock>
+    </producto>
+    <producto id="326">
+        <nombre>Mesa 113</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1372.85</precio>
+        <stock>473</stock>
+    </producto>
+    <producto id="327">
+        <nombre>Muñeca 685</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>331.81</precio>
+        <stock>500</stock>
+    </producto>
+    <producto id="328">
+        <nombre>Cómic 396</nombre>
+        <categoria>Libros</categoria>
+        <precio>953.23</precio>
+        <stock>459</stock>
+    </producto>
+    <producto id="329">
+        <nombre>Patines 213</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1489.7</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="330">
+        <nombre>Aceite 474</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>365.61</precio>
+        <stock>305</stock>
+    </producto>
+    <producto id="331">
+        <nombre>Disco Duro 929</nombre>
+        <categoria>Informática</categoria>
+        <precio>151.78</precio>
+        <stock>381</stock>
+    </producto>
+    <producto id="332">
+        <nombre>Puzzle 527</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>443.35</precio>
+        <stock>438</stock>
+    </producto>
+    <producto id="333">
+        <nombre>Muñeca 757</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>354.79</precio>
+        <stock>115</stock>
+    </producto>
+    <producto id="334">
+        <nombre>Cojín 867</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1467.7</precio>
+        <stock>450</stock>
+    </producto>
+    <producto id="335">
+        <nombre>Pelota 813</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1147.4</precio>
+        <stock>329</stock>
+    </producto>
+    <producto id="336">
+        <nombre>Disco Duro 188</nombre>
+        <categoria>Informática</categoria>
+        <precio>323.67</precio>
+        <stock>16</stock>
+    </producto>
+    <producto id="337">
+        <nombre>Tablet 641</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>444.98</precio>
+        <stock>433</stock>
+    </producto>
+    <producto id="338">
+        <nombre>Bicicleta 419</nombre>
+        <categoria>Deportes</categoria>
+        <precio>873.4</precio>
+        <stock>451</stock>
+    </producto>
+    <producto id="339">
+        <nombre>Pantalón 877</nombre>
+        <categoria>Ropa</categoria>
+        <precio>231.03</precio>
+        <stock>400</stock>
+    </producto>
+    <producto id="340">
+        <nombre>Leche 643</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1479.71</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="341">
+        <nombre>Cama 487</nombre>
+        <categoria>Hogar</categoria>
+        <precio>55.93</precio>
+        <stock>259</stock>
+    </producto>
+    <producto id="342">
+        <nombre>Armario 620</nombre>
+        <categoria>Hogar</categoria>
+        <precio>379.4</precio>
+        <stock>316</stock>
+    </producto>
+    <producto id="343">
+        <nombre>Manual 286</nombre>
+        <categoria>Libros</categoria>
+        <precio>838.91</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="344">
+        <nombre>Silla 752</nombre>
+        <categoria>Hogar</categoria>
+        <precio>874.09</precio>
+        <stock>243</stock>
+    </producto>
+    <producto id="345">
+        <nombre>Mesa 424</nombre>
+        <categoria>Hogar</categoria>
+        <precio>956.63</precio>
+        <stock>335</stock>
+    </producto>
+    <producto id="346">
+        <nombre>Patines 439</nombre>
+        <categoria>Deportes</categoria>
+        <precio>558.49</precio>
+        <stock>397</stock>
+    </producto>
+    <producto id="347">
+        <nombre>Armario 771</nombre>
+        <categoria>Hogar</categoria>
+        <precio>235.64</precio>
+        <stock>235</stock>
+    </producto>
+    <producto id="348">
+        <nombre>Cinta de correr 279</nombre>
+        <categoria>Deportes</categoria>
+        <precio>692.81</precio>
+        <stock>393</stock>
+    </producto>
+    <producto id="349">
+        <nombre>Impresora 692</nombre>
+        <categoria>Informática</categoria>
+        <precio>1449.9</precio>
+        <stock>313</stock>
+    </producto>
+    <producto id="350">
+        <nombre>Aceite 735</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>766.58</precio>
+        <stock>159</stock>
+    </producto>
+    <producto id="351">
+        <nombre>Balón 871</nombre>
+        <categoria>Deportes</categoria>
+        <precio>639.5</precio>
+        <stock>348</stock>
+    </producto>
+    <producto id="352">
+        <nombre>Coche de juguete 204</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1086.39</precio>
+        <stock>28</stock>
+    </producto>
+    <producto id="353">
+        <nombre>Televisor 772</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>396.89</precio>
+        <stock>492</stock>
+    </producto>
+    <producto id="354">
+        <nombre>Cinta de correr 614</nombre>
+        <categoria>Deportes</categoria>
+        <precio>175.12</precio>
+        <stock>29</stock>
+    </producto>
+    <producto id="355">
+        <nombre>Gorra 600</nombre>
+        <categoria>Ropa</categoria>
+        <precio>22.19</precio>
+        <stock>230</stock>
+    </producto>
+    <producto id="356">
+        <nombre>Pantalón 541</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1151.84</precio>
+        <stock>81</stock>
+    </producto>
+    <producto id="357">
+        <nombre>Altavoz 726</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>352.7</precio>
+        <stock>202</stock>
+    </producto>
+    <producto id="358">
+        <nombre>Lámpara 430</nombre>
+        <categoria>Hogar</categoria>
+        <precio>351.91</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="359">
+        <nombre>Arroz 895</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>475.81</precio>
+        <stock>486</stock>
+    </producto>
+    <producto id="360">
+        <nombre>Café 404</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>856.46</precio>
+        <stock>475</stock>
+    </producto>
+    <producto id="361">
+        <nombre>Monitor 169</nombre>
+        <categoria>Informática</categoria>
+        <precio>629.56</precio>
+        <stock>85</stock>
+    </producto>
+    <producto id="362">
+        <nombre>Patines 113</nombre>
+        <categoria>Deportes</categoria>
+        <precio>678.18</precio>
+        <stock>2</stock>
+    </producto>
+    <producto id="363">
+        <nombre>Zapatos 230</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1010.65</precio>
+        <stock>242</stock>
+    </producto>
+    <producto id="364">
+        <nombre>Coche de juguete 644</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>567.47</precio>
+        <stock>111</stock>
+    </producto>
+    <producto id="365">
+        <nombre>Smartphone 179</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>73.7</precio>
+        <stock>4</stock>
+    </producto>
+    <producto id="366">
+        <nombre>Puzzle 606</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>669.11</precio>
+        <stock>127</stock>
+    </producto>
+    <producto id="367">
+        <nombre>Cinta de correr 825</nombre>
+        <categoria>Deportes</categoria>
+        <precio>437.75</precio>
+        <stock>6</stock>
+    </producto>
+    <producto id="368">
+        <nombre>Monitor 412</nombre>
+        <categoria>Informática</categoria>
+        <precio>1428.33</precio>
+        <stock>70</stock>
+    </producto>
+    <producto id="369">
+        <nombre>Bufanda 244</nombre>
+        <categoria>Ropa</categoria>
+        <precio>677.55</precio>
+        <stock>357</stock>
+    </producto>
+    <producto id="370">
+        <nombre>Auriculares 516</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1129.83</precio>
+        <stock>463</stock>
+    </producto>
+    <producto id="371">
+        <nombre>Cómic 564</nombre>
+        <categoria>Libros</categoria>
+        <precio>734.76</precio>
+        <stock>207</stock>
+    </producto>
+    <producto id="372">
+        <nombre>Teclado 649</nombre>
+        <categoria>Informática</categoria>
+        <precio>349.75</precio>
+        <stock>91</stock>
+    </producto>
+    <producto id="373">
+        <nombre>Silla 426</nombre>
+        <categoria>Hogar</categoria>
+        <precio>741.96</precio>
+        <stock>468</stock>
+    </producto>
+    <producto id="374">
+        <nombre>Cómic 492</nombre>
+        <categoria>Libros</categoria>
+        <precio>130.78</precio>
+        <stock>254</stock>
+    </producto>
+    <producto id="375">
+        <nombre>Cámara 552</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>161.63</precio>
+        <stock>497</stock>
+    </producto>
+    <producto id="376">
+        <nombre>Pelota 116</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>311.91</precio>
+        <stock>190</stock>
+    </producto>
+    <producto id="377">
+        <nombre>Drone infantil 201</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>689.09</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="378">
+        <nombre>Coche de juguete 324</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>619.28</precio>
+        <stock>3</stock>
+    </producto>
+    <producto id="379">
+        <nombre>Cinta de correr 366</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1175.93</precio>
+        <stock>411</stock>
+    </producto>
+    <producto id="380">
+        <nombre>Auriculares 370</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1162.9</precio>
+        <stock>333</stock>
+    </producto>
+    <producto id="381">
+        <nombre>Zapatos 238</nombre>
+        <categoria>Ropa</categoria>
+        <precio>528.56</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="382">
+        <nombre>Diccionario 649</nombre>
+        <categoria>Libros</categoria>
+        <precio>174.94</precio>
+        <stock>182</stock>
+    </producto>
+    <producto id="383">
+        <nombre>Manual 499</nombre>
+        <categoria>Libros</categoria>
+        <precio>1302.03</precio>
+        <stock>371</stock>
+    </producto>
+    <producto id="384">
+        <nombre>Smartphone 910</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1209.95</precio>
+        <stock>337</stock>
+    </producto>
+    <producto id="385">
+        <nombre>Auriculares 748</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1372.93</precio>
+        <stock>438</stock>
+    </producto>
+    <producto id="386">
+        <nombre>Disco Duro 805</nombre>
+        <categoria>Informática</categoria>
+        <precio>513.67</precio>
+        <stock>213</stock>
+    </producto>
+    <producto id="387">
+        <nombre>Chaqueta 475</nombre>
+        <categoria>Ropa</categoria>
+        <precio>675.36</precio>
+        <stock>411</stock>
+    </producto>
+    <producto id="388">
+        <nombre>Impresora 331</nombre>
+        <categoria>Informática</categoria>
+        <precio>1308.28</precio>
+        <stock>133</stock>
+    </producto>
+    <producto id="389">
+        <nombre>Altavoz 516</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>196.12</precio>
+        <stock>458</stock>
+    </producto>
+    <producto id="390">
+        <nombre>Pesas 274</nombre>
+        <categoria>Deportes</categoria>
+        <precio>601.87</precio>
+        <stock>126</stock>
+    </producto>
+    <producto id="391">
+        <nombre>Pesas 638</nombre>
+        <categoria>Deportes</categoria>
+        <precio>170.24</precio>
+        <stock>456</stock>
+    </producto>
+    <producto id="392">
+        <nombre>Diccionario 950</nombre>
+        <categoria>Libros</categoria>
+        <precio>124.08</precio>
+        <stock>207</stock>
+    </producto>
+    <producto id="393">
+        <nombre>Auriculares 850</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>6.06</precio>
+        <stock>351</stock>
+    </producto>
+    <producto id="394">
+        <nombre>Café 132</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1284.42</precio>
+        <stock>258</stock>
+    </producto>
+    <producto id="395">
+        <nombre>Novela 614</nombre>
+        <categoria>Libros</categoria>
+        <precio>343.8</precio>
+        <stock>12</stock>
+    </producto>
+    <producto id="396">
+        <nombre>Cereal 640</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>202.02</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="397">
+        <nombre>Bicicleta 122</nombre>
+        <categoria>Deportes</categoria>
+        <precio>765.41</precio>
+        <stock>134</stock>
+    </producto>
+    <producto id="398">
+        <nombre>Mesa 770</nombre>
+        <categoria>Hogar</categoria>
+        <precio>369.56</precio>
+        <stock>109</stock>
+    </producto>
+    <producto id="399">
+        <nombre>Altavoz 879</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1115.39</precio>
+        <stock>178</stock>
+    </producto>
+    <producto id="400">
+        <nombre>Biografía 933</nombre>
+        <categoria>Libros</categoria>
+        <precio>438.08</precio>
+        <stock>69</stock>
+    </producto>
+    <producto id="401">
+        <nombre>Cereal 317</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>496.79</precio>
+        <stock>109</stock>
+    </producto>
+    <producto id="402">
+        <nombre>Portátil 323</nombre>
+        <categoria>Informática</categoria>
+        <precio>658.71</precio>
+        <stock>63</stock>
+    </producto>
+    <producto id="403">
+        <nombre>Tablet 151</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>965.16</precio>
+        <stock>156</stock>
+    </producto>
+    <producto id="404">
+        <nombre>Pantalón 337</nombre>
+        <categoria>Ropa</categoria>
+        <precio>596.85</precio>
+        <stock>134</stock>
+    </producto>
+    <producto id="405">
+        <nombre>Televisor 396</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1163.24</precio>
+        <stock>292</stock>
+    </producto>
+    <producto id="406">
+        <nombre>Chaqueta 196</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1487.19</precio>
+        <stock>342</stock>
+    </producto>
+    <producto id="407">
+        <nombre>Lámpara 759</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1172.14</precio>
+        <stock>238</stock>
+    </producto>
+    <producto id="408">
+        <nombre>Cereal 821</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>721.75</precio>
+        <stock>324</stock>
+    </producto>
+    <producto id="409">
+        <nombre>Monitor 846</nombre>
+        <categoria>Informática</categoria>
+        <precio>809.02</precio>
+        <stock>189</stock>
+    </producto>
+    <producto id="410">
+        <nombre>Manual 218</nombre>
+        <categoria>Libros</categoria>
+        <precio>413.84</precio>
+        <stock>404</stock>
+    </producto>
+    <producto id="411">
+        <nombre>Bicicleta 564</nombre>
+        <categoria>Deportes</categoria>
+        <precio>942.33</precio>
+        <stock>228</stock>
+    </producto>
+    <producto id="412">
+        <nombre>Ensayo 302</nombre>
+        <categoria>Libros</categoria>
+        <precio>353.34</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="413">
+        <nombre>Monitor 837</nombre>
+        <categoria>Informática</categoria>
+        <precio>928.14</precio>
+        <stock>28</stock>
+    </producto>
+    <producto id="414">
+        <nombre>Cinta de correr 769</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1226.54</precio>
+        <stock>475</stock>
+    </producto>
+    <producto id="415">
+        <nombre>Leche 224</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1076.49</precio>
+        <stock>470</stock>
+    </producto>
+    <producto id="416">
+        <nombre>Chaqueta 687</nombre>
+        <categoria>Ropa</categoria>
+        <precio>580.28</precio>
+        <stock>496</stock>
+    </producto>
+    <producto id="417">
+        <nombre>Café 562</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>261.53</precio>
+        <stock>351</stock>
+    </producto>
+    <producto id="418">
+        <nombre>Balón 464</nombre>
+        <categoria>Deportes</categoria>
+        <precio>600.51</precio>
+        <stock>155</stock>
+    </producto>
+    <producto id="419">
+        <nombre>Balón 857</nombre>
+        <categoria>Deportes</categoria>
+        <precio>147.28</precio>
+        <stock>216</stock>
+    </producto>
+    <producto id="420">
+        <nombre>Pesas 615</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1202.09</precio>
+        <stock>347</stock>
+    </producto>
+    <producto id="421">
+        <nombre>Portátil 469</nombre>
+        <categoria>Informática</categoria>
+        <precio>1451.87</precio>
+        <stock>53</stock>
+    </producto>
+    <producto id="422">
+        <nombre>Smartphone 179</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>527.43</precio>
+        <stock>292</stock>
+    </producto>
+    <producto id="423">
+        <nombre>Lámpara 411</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1019.76</precio>
+        <stock>91</stock>
+    </producto>
+    <producto id="424">
+        <nombre>Aceite 593</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1350.96</precio>
+        <stock>153</stock>
+    </producto>
+    <producto id="425">
+        <nombre>Muñeca 420</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>364.37</precio>
+        <stock>89</stock>
+    </producto>
+    <producto id="426">
+        <nombre>Cámara 288</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>571.3</precio>
+        <stock>196</stock>
+    </producto>
+    <producto id="427">
+        <nombre>Lámpara 605</nombre>
+        <categoria>Hogar</categoria>
+        <precio>213.29</precio>
+        <stock>382</stock>
+    </producto>
+    <producto id="428">
+        <nombre>Pasta 375</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>156.48</precio>
+        <stock>90</stock>
+    </producto>
+    <producto id="429">
+        <nombre>Coche de juguete 607</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>383.3</precio>
+        <stock>394</stock>
+    </producto>
+    <producto id="430">
+        <nombre>Coche de juguete 550</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>193.77</precio>
+        <stock>412</stock>
+    </producto>
+    <producto id="431">
+        <nombre>Puzzle 425</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>79.69</precio>
+        <stock>388</stock>
+    </producto>
+    <producto id="432">
+        <nombre>Portátil 524</nombre>
+        <categoria>Informática</categoria>
+        <precio>764.43</precio>
+        <stock>328</stock>
+    </producto>
+    <producto id="433">
+        <nombre>Puzzle 500</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>721.89</precio>
+        <stock>341</stock>
+    </producto>
+    <producto id="434">
+        <nombre>Muñeca 972</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1312.03</precio>
+        <stock>340</stock>
+    </producto>
+    <producto id="435">
+        <nombre>Leche 933</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1009.03</precio>
+        <stock>118</stock>
+    </producto>
+    <producto id="436">
+        <nombre>Pelota 235</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>414.31</precio>
+        <stock>281</stock>
+    </producto>
+    <producto id="437">
+        <nombre>Coche de juguete 314</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>451.53</precio>
+        <stock>207</stock>
+    </producto>
+    <producto id="438">
+        <nombre>Aceite 349</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>651.0</precio>
+        <stock>94</stock>
+    </producto>
+    <producto id="439">
+        <nombre>Gorra 974</nombre>
+        <categoria>Ropa</categoria>
+        <precio>405.79</precio>
+        <stock>120</stock>
+    </producto>
+    <producto id="440">
+        <nombre>Aceite 506</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>466.06</precio>
+        <stock>74</stock>
+    </producto>
+    <producto id="441">
+        <nombre>Patines 901</nombre>
+        <categoria>Deportes</categoria>
+        <precio>824.05</precio>
+        <stock>458</stock>
+    </producto>
+    <producto id="442">
+        <nombre>Arroz 169</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1176.25</precio>
+        <stock>450</stock>
+    </producto>
+    <producto id="443">
+        <nombre>Chaqueta 317</nombre>
+        <categoria>Ropa</categoria>
+        <precio>775.27</precio>
+        <stock>274</stock>
+    </producto>
+    <producto id="444">
+        <nombre>Cereal 328</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>415.86</precio>
+        <stock>84</stock>
+    </producto>
+    <producto id="445">
+        <nombre>Manual 765</nombre>
+        <categoria>Libros</categoria>
+        <precio>241.92</precio>
+        <stock>185</stock>
+    </producto>
+    <producto id="446">
+        <nombre>Pasta 404</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1134.53</precio>
+        <stock>386</stock>
+    </producto>
+    <producto id="447">
+        <nombre>Teclado 362</nombre>
+        <categoria>Informática</categoria>
+        <precio>1045.15</precio>
+        <stock>268</stock>
+    </producto>
+    <producto id="448">
+        <nombre>Televisor 635</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>528.9</precio>
+        <stock>138</stock>
+    </producto>
+    <producto id="449">
+        <nombre>Cinta de correr 941</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1263.17</precio>
+        <stock>102</stock>
+    </producto>
+    <producto id="450">
+        <nombre>Puzzle 588</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>533.84</precio>
+        <stock>321</stock>
+    </producto>
+    <producto id="451">
+        <nombre>Cereal 706</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>558.31</precio>
+        <stock>279</stock>
+    </producto>
+    <producto id="452">
+        <nombre>Balón 775</nombre>
+        <categoria>Deportes</categoria>
+        <precio>932.18</precio>
+        <stock>494</stock>
+    </producto>
+    <producto id="453">
+        <nombre>Cinta de correr 586</nombre>
+        <categoria>Deportes</categoria>
+        <precio>513.21</precio>
+        <stock>475</stock>
+    </producto>
+    <producto id="454">
+        <nombre>Mesa 858</nombre>
+        <categoria>Hogar</categoria>
+        <precio>591.88</precio>
+        <stock>445</stock>
+    </producto>
+    <producto id="455">
+        <nombre>Café 407</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>645.14</precio>
+        <stock>289</stock>
+    </producto>
+    <producto id="456">
+        <nombre>Cinta de correr 421</nombre>
+        <categoria>Deportes</categoria>
+        <precio>987.12</precio>
+        <stock>179</stock>
+    </producto>
+    <producto id="457">
+        <nombre>Cinta de correr 799</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1341.64</precio>
+        <stock>418</stock>
+    </producto>
+    <producto id="458">
+        <nombre>Cereal 778</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>901.14</precio>
+        <stock>463</stock>
+    </producto>
+    <producto id="459">
+        <nombre>Pesas 500</nombre>
+        <categoria>Deportes</categoria>
+        <precio>826.05</precio>
+        <stock>415</stock>
+    </producto>
+    <producto id="460">
+        <nombre>Biografía 142</nombre>
+        <categoria>Libros</categoria>
+        <precio>72.24</precio>
+        <stock>337</stock>
+    </producto>
+    <producto id="461">
+        <nombre>Tablet 500</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>985.51</precio>
+        <stock>113</stock>
+    </producto>
+    <producto id="462">
+        <nombre>Auriculares 629</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1291.66</precio>
+        <stock>79</stock>
+    </producto>
+    <producto id="463">
+        <nombre>Armario 852</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1423.31</precio>
+        <stock>448</stock>
+    </producto>
+    <producto id="464">
+        <nombre>Portátil 842</nombre>
+        <categoria>Informática</categoria>
+        <precio>739.38</precio>
+        <stock>165</stock>
+    </producto>
+    <producto id="465">
+        <nombre>Lego 832</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>608.99</precio>
+        <stock>285</stock>
+    </producto>
+    <producto id="466">
+        <nombre>Novela 143</nombre>
+        <categoria>Libros</categoria>
+        <precio>406.1</precio>
+        <stock>477</stock>
+    </producto>
+    <producto id="467">
+        <nombre>Bicicleta 443</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1111.26</precio>
+        <stock>110</stock>
+    </producto>
+    <producto id="468">
+        <nombre>Arroz 191</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1057.97</precio>
+        <stock>311</stock>
+    </producto>
+    <producto id="469">
+        <nombre>Ratón 770</nombre>
+        <categoria>Informática</categoria>
+        <precio>985.27</precio>
+        <stock>123</stock>
+    </producto>
+    <producto id="470">
+        <nombre>Balón 846</nombre>
+        <categoria>Deportes</categoria>
+        <precio>876.91</precio>
+        <stock>3</stock>
+    </producto>
+    <producto id="471">
+        <nombre>Novela 954</nombre>
+        <categoria>Libros</categoria>
+        <precio>549.33</precio>
+        <stock>159</stock>
+    </producto>
+    <producto id="472">
+        <nombre>Patines 833</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1093.38</precio>
+        <stock>228</stock>
+    </producto>
+    <producto id="473">
+        <nombre>Impresora 305</nombre>
+        <categoria>Informática</categoria>
+        <precio>580.11</precio>
+        <stock>54</stock>
+    </producto>
+    <producto id="474">
+        <nombre>Coche de juguete 169</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>945.19</precio>
+        <stock>492</stock>
+    </producto>
+    <producto id="475">
+        <nombre>Ratón 621</nombre>
+        <categoria>Informática</categoria>
+        <precio>1047.34</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="476">
+        <nombre>Televisor 727</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>234.86</precio>
+        <stock>411</stock>
+    </producto>
+    <producto id="477">
+        <nombre>Pantalón 867</nombre>
+        <categoria>Ropa</categoria>
+        <precio>420.56</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="478">
+        <nombre>Biografía 198</nombre>
+        <categoria>Libros</categoria>
+        <precio>767.44</precio>
+        <stock>344</stock>
+    </producto>
+    <producto id="479">
+        <nombre>Pasta 462</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>298.46</precio>
+        <stock>362</stock>
+    </producto>
+    <producto id="480">
+        <nombre>Pantalón 685</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1096.98</precio>
+        <stock>424</stock>
+    </producto>
+    <producto id="481">
+        <nombre>Lego 108</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>491.02</precio>
+        <stock>202</stock>
+    </producto>
+    <producto id="482">
+        <nombre>Auriculares 373</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>59.55</precio>
+        <stock>415</stock>
+    </producto>
+    <producto id="483">
+        <nombre>Muñeca 283</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>764.99</precio>
+        <stock>77</stock>
+    </producto>
+    <producto id="484">
+        <nombre>Pantalón 235</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1376.44</precio>
+        <stock>110</stock>
+    </producto>
+    <producto id="485">
+        <nombre>Monitor 101</nombre>
+        <categoria>Informática</categoria>
+        <precio>642.85</precio>
+        <stock>324</stock>
+    </producto>
+    <producto id="486">
+        <nombre>Altavoz 420</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>988.71</precio>
+        <stock>472</stock>
+    </producto>
+    <producto id="487">
+        <nombre>Manual 417</nombre>
+        <categoria>Libros</categoria>
+        <precio>937.45</precio>
+        <stock>462</stock>
+    </producto>
+    <producto id="488">
+        <nombre>Armario 938</nombre>
+        <categoria>Hogar</categoria>
+        <precio>252.51</precio>
+        <stock>140</stock>
+    </producto>
+    <producto id="489">
+        <nombre>Portátil 996</nombre>
+        <categoria>Informática</categoria>
+        <precio>983.43</precio>
+        <stock>57</stock>
+    </producto>
+    <producto id="490">
+        <nombre>Café 112</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1469.05</precio>
+        <stock>249</stock>
+    </producto>
+    <producto id="491">
+        <nombre>Raqueta 365</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1352.9</precio>
+        <stock>293</stock>
+    </producto>
+    <producto id="492">
+        <nombre>Lego 967</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>610.7</precio>
+        <stock>175</stock>
+    </producto>
+    <producto id="493">
+        <nombre>Puzzle 509</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1051.59</precio>
+        <stock>158</stock>
+    </producto>
+    <producto id="494">
+        <nombre>Portátil 793</nombre>
+        <categoria>Informática</categoria>
+        <precio>500.91</precio>
+        <stock>465</stock>
+    </producto>
+    <producto id="495">
+        <nombre>Pasta 788</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>358.78</precio>
+        <stock>0</stock>
+    </producto>
+    <producto id="496">
+        <nombre>Bufanda 659</nombre>
+        <categoria>Ropa</categoria>
+        <precio>867.84</precio>
+        <stock>253</stock>
+    </producto>
+    <producto id="497">
+        <nombre>Monitor 797</nombre>
+        <categoria>Informática</categoria>
+        <precio>784.66</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="498">
+        <nombre>Televisor 762</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>81.17</precio>
+        <stock>127</stock>
+    </producto>
+    <producto id="499">
+        <nombre>Camiseta 108</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1234.9</precio>
+        <stock>21</stock>
+    </producto>
+    <producto id="500">
+        <nombre>Camiseta 885</nombre>
+        <categoria>Ropa</categoria>
+        <precio>135.33</precio>
+        <stock>145</stock>
+    </producto>
+    <producto id="501">
+        <nombre>Monitor 155</nombre>
+        <categoria>Informática</categoria>
+        <precio>1405.13</precio>
+        <stock>379</stock>
+    </producto>
+    <producto id="502">
+        <nombre>Pelota 435</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1070.6</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="503">
+        <nombre>Ensayo 532</nombre>
+        <categoria>Libros</categoria>
+        <precio>175.25</precio>
+        <stock>244</stock>
+    </producto>
+    <producto id="504">
+        <nombre>Pelota 400</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1450.85</precio>
+        <stock>152</stock>
+    </producto>
+    <producto id="505">
+        <nombre>Biografía 739</nombre>
+        <categoria>Libros</categoria>
+        <precio>1492.36</precio>
+        <stock>187</stock>
+    </producto>
+    <producto id="506">
+        <nombre>Ensayo 241</nombre>
+        <categoria>Libros</categoria>
+        <precio>594.5</precio>
+        <stock>495</stock>
+    </producto>
+    <producto id="507">
+        <nombre>Altavoz 480</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1402.52</precio>
+        <stock>400</stock>
+    </producto>
+    <producto id="508">
+        <nombre>Impresora 761</nombre>
+        <categoria>Informática</categoria>
+        <precio>6.97</precio>
+        <stock>288</stock>
+    </producto>
+    <producto id="509">
+        <nombre>Drone infantil 822</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>929.12</precio>
+        <stock>302</stock>
+    </producto>
+    <producto id="510">
+        <nombre>Puzzle 596</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>97.71</precio>
+        <stock>204</stock>
+    </producto>
+    <producto id="511">
+        <nombre>Lámpara 700</nombre>
+        <categoria>Hogar</categoria>
+        <precio>989.64</precio>
+        <stock>188</stock>
+    </producto>
+    <producto id="512">
+        <nombre>Puzzle 320</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>445.65</precio>
+        <stock>101</stock>
+    </producto>
+    <producto id="513">
+        <nombre>Aceite 264</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1081.69</precio>
+        <stock>294</stock>
+    </producto>
+    <producto id="514">
+        <nombre>Cereal 324</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1117.16</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="515">
+        <nombre>Balón 328</nombre>
+        <categoria>Deportes</categoria>
+        <precio>410.41</precio>
+        <stock>66</stock>
+    </producto>
+    <producto id="516">
+        <nombre>Pasta 624</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1398.25</precio>
+        <stock>165</stock>
+    </producto>
+    <producto id="517">
+        <nombre>Pelota 492</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>134.31</precio>
+        <stock>283</stock>
+    </producto>
+    <producto id="518">
+        <nombre>Silla 190</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1392.02</precio>
+        <stock>348</stock>
+    </producto>
+    <producto id="519">
+        <nombre>Coche de juguete 568</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>847.41</precio>
+        <stock>135</stock>
+    </producto>
+    <producto id="520">
+        <nombre>Balón 243</nombre>
+        <categoria>Deportes</categoria>
+        <precio>904.46</precio>
+        <stock>256</stock>
+    </producto>
+    <producto id="521">
+        <nombre>Teclado 991</nombre>
+        <categoria>Informática</categoria>
+        <precio>675.21</precio>
+        <stock>389</stock>
+    </producto>
+    <producto id="522">
+        <nombre>Diccionario 856</nombre>
+        <categoria>Libros</categoria>
+        <precio>29.82</precio>
+        <stock>461</stock>
+    </producto>
+    <producto id="523">
+        <nombre>Portátil 746</nombre>
+        <categoria>Informática</categoria>
+        <precio>538.48</precio>
+        <stock>247</stock>
+    </producto>
+    <producto id="524">
+        <nombre>Bufanda 520</nombre>
+        <categoria>Ropa</categoria>
+        <precio>947.55</precio>
+        <stock>387</stock>
+    </producto>
+    <producto id="525">
+        <nombre>Puzzle 413</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>782.55</precio>
+        <stock>300</stock>
+    </producto>
+    <producto id="526">
+        <nombre>Cereal 448</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1395.54</precio>
+        <stock>51</stock>
+    </producto>
+    <producto id="527">
+        <nombre>Pantalón 326</nombre>
+        <categoria>Ropa</categoria>
+        <precio>915.43</precio>
+        <stock>70</stock>
+    </producto>
+    <producto id="528">
+        <nombre>Smartphone 244</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>904.49</precio>
+        <stock>261</stock>
+    </producto>
+    <producto id="529">
+        <nombre>Drone infantil 683</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>755.52</precio>
+        <stock>281</stock>
+    </producto>
+    <producto id="530">
+        <nombre>Arroz 539</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>938.53</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="531">
+        <nombre>Auriculares 131</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1005.14</precio>
+        <stock>131</stock>
+    </producto>
+    <producto id="532">
+        <nombre>Lámpara 464</nombre>
+        <categoria>Hogar</categoria>
+        <precio>853.86</precio>
+        <stock>127</stock>
+    </producto>
+    <producto id="533">
+        <nombre>Impresora 927</nombre>
+        <categoria>Informática</categoria>
+        <precio>1078.87</precio>
+        <stock>354</stock>
+    </producto>
+    <producto id="534">
+        <nombre>Patines 719</nombre>
+        <categoria>Deportes</categoria>
+        <precio>461.02</precio>
+        <stock>7</stock>
+    </producto>
+    <producto id="535">
+        <nombre>Armario 626</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1108.3</precio>
+        <stock>21</stock>
+    </producto>
+    <producto id="536">
+        <nombre>Café 178</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>786.73</precio>
+        <stock>273</stock>
+    </producto>
+    <producto id="537">
+        <nombre>Cómic 426</nombre>
+        <categoria>Libros</categoria>
+        <precio>1034.46</precio>
+        <stock>334</stock>
+    </producto>
+    <producto id="538">
+        <nombre>Armario 187</nombre>
+        <categoria>Hogar</categoria>
+        <precio>108.56</precio>
+        <stock>479</stock>
+    </producto>
+    <producto id="539">
+        <nombre>Bicicleta 753</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1366.61</precio>
+        <stock>167</stock>
+    </producto>
+    <producto id="540">
+        <nombre>Aceite 412</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1048.52</precio>
+        <stock>330</stock>
+    </producto>
+    <producto id="541">
+        <nombre>Arroz 525</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>636.44</precio>
+        <stock>335</stock>
+    </producto>
+    <producto id="542">
+        <nombre>Zapatos 331</nombre>
+        <categoria>Ropa</categoria>
+        <precio>234.15</precio>
+        <stock>468</stock>
+    </producto>
+    <producto id="543">
+        <nombre>Cereal 535</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1448.09</precio>
+        <stock>405</stock>
+    </producto>
+    <producto id="544">
+        <nombre>Chaqueta 252</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1054.0</precio>
+        <stock>73</stock>
+    </producto>
+    <producto id="545">
+        <nombre>Raqueta 470</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1097.11</precio>
+        <stock>347</stock>
+    </producto>
+    <producto id="546">
+        <nombre>Bicicleta 518</nombre>
+        <categoria>Deportes</categoria>
+        <precio>682.81</precio>
+        <stock>386</stock>
+    </producto>
+    <producto id="547">
+        <nombre>Televisor 128</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1483.02</precio>
+        <stock>174</stock>
+    </producto>
+    <producto id="548">
+        <nombre>Camiseta 493</nombre>
+        <categoria>Ropa</categoria>
+        <precio>950.85</precio>
+        <stock>461</stock>
+    </producto>
+    <producto id="549">
+        <nombre>Disco Duro 594</nombre>
+        <categoria>Informática</categoria>
+        <precio>1232.13</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="550">
+        <nombre>Ensayo 657</nombre>
+        <categoria>Libros</categoria>
+        <precio>740.55</precio>
+        <stock>60</stock>
+    </producto>
+    <producto id="551">
+        <nombre>Zapatos 594</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1207.16</precio>
+        <stock>215</stock>
+    </producto>
+    <producto id="552">
+        <nombre>Portátil 943</nombre>
+        <categoria>Informática</categoria>
+        <precio>1067.62</precio>
+        <stock>249</stock>
+    </producto>
+    <producto id="553">
+        <nombre>Biografía 950</nombre>
+        <categoria>Libros</categoria>
+        <precio>680.66</precio>
+        <stock>59</stock>
+    </producto>
+    <producto id="554">
+        <nombre>Altavoz 344</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>781.6</precio>
+        <stock>281</stock>
+    </producto>
+    <producto id="555">
+        <nombre>Diccionario 137</nombre>
+        <categoria>Libros</categoria>
+        <precio>1280.84</precio>
+        <stock>499</stock>
+    </producto>
+    <producto id="556">
+        <nombre>Aceite 692</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>845.53</precio>
+        <stock>287</stock>
+    </producto>
+    <producto id="557">
+        <nombre>Zapatos 710</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1253.73</precio>
+        <stock>486</stock>
+    </producto>
+    <producto id="558">
+        <nombre>Chaqueta 837</nombre>
+        <categoria>Ropa</categoria>
+        <precio>441.13</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="559">
+        <nombre>Smartphone 416</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>307.88</precio>
+        <stock>376</stock>
+    </producto>
+    <producto id="560">
+        <nombre>Armario 314</nombre>
+        <categoria>Hogar</categoria>
+        <precio>441.05</precio>
+        <stock>53</stock>
+    </producto>
+    <producto id="561">
+        <nombre>Auriculares 304</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>352.75</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="562">
+        <nombre>Lámpara 967</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1037.11</precio>
+        <stock>412</stock>
+    </producto>
+    <producto id="563">
+        <nombre>Disco Duro 887</nombre>
+        <categoria>Informática</categoria>
+        <precio>1028.97</precio>
+        <stock>260</stock>
+    </producto>
+    <producto id="564">
+        <nombre>Café 750</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>849.9</precio>
+        <stock>394</stock>
+    </producto>
+    <producto id="565">
+        <nombre>Café 103</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>942.66</precio>
+        <stock>382</stock>
+    </producto>
+    <producto id="566">
+        <nombre>Portátil 275</nombre>
+        <categoria>Informática</categoria>
+        <precio>503.7</precio>
+        <stock>385</stock>
+    </producto>
+    <producto id="567">
+        <nombre>Pantalón 538</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1323.91</precio>
+        <stock>454</stock>
+    </producto>
+    <producto id="568">
+        <nombre>Novela 181</nombre>
+        <categoria>Libros</categoria>
+        <precio>542.44</precio>
+        <stock>379</stock>
+    </producto>
+    <producto id="569">
+        <nombre>Monitor 804</nombre>
+        <categoria>Informática</categoria>
+        <precio>374.1</precio>
+        <stock>359</stock>
+    </producto>
+    <producto id="570">
+        <nombre>Televisor 867</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>298.86</precio>
+        <stock>329</stock>
+    </producto>
+    <producto id="571">
+        <nombre>Lámpara 526</nombre>
+        <categoria>Hogar</categoria>
+        <precio>83.21</precio>
+        <stock>302</stock>
+    </producto>
+    <producto id="572">
+        <nombre>Cinta de correr 211</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1387.85</precio>
+        <stock>137</stock>
+    </producto>
+    <producto id="573">
+        <nombre>Impresora 762</nombre>
+        <categoria>Informática</categoria>
+        <precio>499.97</precio>
+        <stock>340</stock>
+    </producto>
+    <producto id="574">
+        <nombre>Cómic 197</nombre>
+        <categoria>Libros</categoria>
+        <precio>1010.3</precio>
+        <stock>488</stock>
+    </producto>
+    <producto id="575">
+        <nombre>Pelota 780</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1165.4</precio>
+        <stock>96</stock>
+    </producto>
+    <producto id="576">
+        <nombre>Balón 138</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1202.28</precio>
+        <stock>322</stock>
+    </producto>
+    <producto id="577">
+        <nombre>Biografía 598</nombre>
+        <categoria>Libros</categoria>
+        <precio>557.11</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="578">
+        <nombre>Teclado 247</nombre>
+        <categoria>Informática</categoria>
+        <precio>737.65</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="579">
+        <nombre>Aceite 650</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>550.52</precio>
+        <stock>125</stock>
+    </producto>
+    <producto id="580">
+        <nombre>Gorra 842</nombre>
+        <categoria>Ropa</categoria>
+        <precio>888.72</precio>
+        <stock>174</stock>
+    </producto>
+    <producto id="581">
+        <nombre>Puzzle 745</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1012.66</precio>
+        <stock>409</stock>
+    </producto>
+    <producto id="582">
+        <nombre>Cinta de correr 555</nombre>
+        <categoria>Deportes</categoria>
+        <precio>127.24</precio>
+        <stock>157</stock>
+    </producto>
+    <producto id="583">
+        <nombre>Bufanda 425</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1058.75</precio>
+        <stock>173</stock>
+    </producto>
+    <producto id="584">
+        <nombre>Mesa 364</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1047.17</precio>
+        <stock>44</stock>
+    </producto>
+    <producto id="585">
+        <nombre>Leche 401</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>36.99</precio>
+        <stock>125</stock>
+    </producto>
+    <producto id="586">
+        <nombre>Patines 209</nombre>
+        <categoria>Deportes</categoria>
+        <precio>613.17</precio>
+        <stock>93</stock>
+    </producto>
+    <producto id="587">
+        <nombre>Leche 401</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1318.62</precio>
+        <stock>141</stock>
+    </producto>
+    <producto id="588">
+        <nombre>Bicicleta 952</nombre>
+        <categoria>Deportes</categoria>
+        <precio>511.37</precio>
+        <stock>97</stock>
+    </producto>
+    <producto id="589">
+        <nombre>Pesas 977</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1332.07</precio>
+        <stock>434</stock>
+    </producto>
+    <producto id="590">
+        <nombre>Mesa 564</nombre>
+        <categoria>Hogar</categoria>
+        <precio>678.75</precio>
+        <stock>20</stock>
+    </producto>
+    <producto id="591">
+        <nombre>Pesas 118</nombre>
+        <categoria>Deportes</categoria>
+        <precio>19.15</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="592">
+        <nombre>Pelota 801</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>566.97</precio>
+        <stock>144</stock>
+    </producto>
+    <producto id="593">
+        <nombre>Pasta 987</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1124.38</precio>
+        <stock>39</stock>
+    </producto>
+    <producto id="594">
+        <nombre>Smartphone 748</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1126.95</precio>
+        <stock>61</stock>
+    </producto>
+    <producto id="595">
+        <nombre>Cinta de correr 373</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1354.11</precio>
+        <stock>255</stock>
+    </producto>
+    <producto id="596">
+        <nombre>Mesa 846</nombre>
+        <categoria>Hogar</categoria>
+        <precio>67.53</precio>
+        <stock>91</stock>
+    </producto>
+    <producto id="597">
+        <nombre>Biografía 186</nombre>
+        <categoria>Libros</categoria>
+        <precio>335.42</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="598">
+        <nombre>Diccionario 934</nombre>
+        <categoria>Libros</categoria>
+        <precio>1239.32</precio>
+        <stock>15</stock>
+    </producto>
+    <producto id="599">
+        <nombre>Pantalón 152</nombre>
+        <categoria>Ropa</categoria>
+        <precio>954.25</precio>
+        <stock>120</stock>
+    </producto>
+    <producto id="600">
+        <nombre>Smartphone 599</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1222.52</precio>
+        <stock>119</stock>
+    </producto>
+    <producto id="601">
+        <nombre>Gorra 893</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1285.98</precio>
+        <stock>99</stock>
+    </producto>
+    <producto id="602">
+        <nombre>Monitor 649</nombre>
+        <categoria>Informática</categoria>
+        <precio>68.38</precio>
+        <stock>370</stock>
+    </producto>
+    <producto id="603">
+        <nombre>Drone infantil 442</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>416.09</precio>
+        <stock>462</stock>
+    </producto>
+    <producto id="604">
+        <nombre>Bufanda 450</nombre>
+        <categoria>Ropa</categoria>
+        <precio>462.33</precio>
+        <stock>8</stock>
+    </producto>
+    <producto id="605">
+        <nombre>Silla 823</nombre>
+        <categoria>Hogar</categoria>
+        <precio>726.79</precio>
+        <stock>52</stock>
+    </producto>
+    <producto id="606">
+        <nombre>Pantalón 460</nombre>
+        <categoria>Ropa</categoria>
+        <precio>777.45</precio>
+        <stock>49</stock>
+    </producto>
+    <producto id="607">
+        <nombre>Cojín 504</nombre>
+        <categoria>Hogar</categoria>
+        <precio>378.06</precio>
+        <stock>396</stock>
+    </producto>
+    <producto id="608">
+        <nombre>Smartphone 477</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>187.21</precio>
+        <stock>392</stock>
+    </producto>
+    <producto id="609">
+        <nombre>Novela 646</nombre>
+        <categoria>Libros</categoria>
+        <precio>1010.35</precio>
+        <stock>370</stock>
+    </producto>
+    <producto id="610">
+        <nombre>Altavoz 331</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1359.75</precio>
+        <stock>23</stock>
+    </producto>
+    <producto id="611">
+        <nombre>Portátil 633</nombre>
+        <categoria>Informática</categoria>
+        <precio>1496.52</precio>
+        <stock>31</stock>
+    </producto>
+    <producto id="612">
+        <nombre>Cojín 257</nombre>
+        <categoria>Hogar</categoria>
+        <precio>585.39</precio>
+        <stock>420</stock>
+    </producto>
+    <producto id="613">
+        <nombre>Televisor 518</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>567.05</precio>
+        <stock>112</stock>
+    </producto>
+    <producto id="614">
+        <nombre>Novela 560</nombre>
+        <categoria>Libros</categoria>
+        <precio>556.12</precio>
+        <stock>181</stock>
+    </producto>
+    <producto id="615">
+        <nombre>Pesas 240</nombre>
+        <categoria>Deportes</categoria>
+        <precio>686.13</precio>
+        <stock>159</stock>
+    </producto>
+    <producto id="616">
+        <nombre>Diccionario 961</nombre>
+        <categoria>Libros</categoria>
+        <precio>1047.0</precio>
+        <stock>191</stock>
+    </producto>
+    <producto id="617">
+        <nombre>Cama 445</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1448.09</precio>
+        <stock>39</stock>
+    </producto>
+    <producto id="618">
+        <nombre>Patines 808</nombre>
+        <categoria>Deportes</categoria>
+        <precio>541.8</precio>
+        <stock>325</stock>
+    </producto>
+    <producto id="619">
+        <nombre>Bufanda 721</nombre>
+        <categoria>Ropa</categoria>
+        <precio>498.99</precio>
+        <stock>155</stock>
+    </producto>
+    <producto id="620">
+        <nombre>Armario 647</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1198.7</precio>
+        <stock>188</stock>
+    </producto>
+    <producto id="621">
+        <nombre>Mesa 197</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1187.8</precio>
+        <stock>318</stock>
+    </producto>
+    <producto id="622">
+        <nombre>Tablet 577</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1162.54</precio>
+        <stock>100</stock>
+    </producto>
+    <producto id="623">
+        <nombre>Camiseta 286</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1469.12</precio>
+        <stock>433</stock>
+    </producto>
+    <producto id="624">
+        <nombre>Café 893</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>780.8</precio>
+        <stock>335</stock>
+    </producto>
+    <producto id="625">
+        <nombre>Altavoz 113</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1227.32</precio>
+        <stock>5</stock>
+    </producto>
+    <producto id="626">
+        <nombre>Pelota 175</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>992.57</precio>
+        <stock>186</stock>
+    </producto>
+    <producto id="627">
+        <nombre>Ensayo 817</nombre>
+        <categoria>Libros</categoria>
+        <precio>6.46</precio>
+        <stock>482</stock>
+    </producto>
+    <producto id="628">
+        <nombre>Pelota 695</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>525.39</precio>
+        <stock>137</stock>
+    </producto>
+    <producto id="629">
+        <nombre>Cojín 349</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1096.28</precio>
+        <stock>360</stock>
+    </producto>
+    <producto id="630">
+        <nombre>Silla 703</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1075.89</precio>
+        <stock>468</stock>
+    </producto>
+    <producto id="631">
+        <nombre>Café 561</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1294.91</precio>
+        <stock>435</stock>
+    </producto>
+    <producto id="632">
+        <nombre>Tablet 673</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1266.41</precio>
+        <stock>211</stock>
+    </producto>
+    <producto id="633">
+        <nombre>Lámpara 934</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1299.65</precio>
+        <stock>480</stock>
+    </producto>
+    <producto id="634">
+        <nombre>Chaqueta 443</nombre>
+        <categoria>Ropa</categoria>
+        <precio>473.48</precio>
+        <stock>443</stock>
+    </producto>
+    <producto id="635">
+        <nombre>Cámara 967</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>5.14</precio>
+        <stock>399</stock>
+    </producto>
+    <producto id="636">
+        <nombre>Zapatos 752</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1209.49</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="637">
+        <nombre>Arroz 818</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1043.01</precio>
+        <stock>371</stock>
+    </producto>
+    <producto id="638">
+        <nombre>Pesas 644</nombre>
+        <categoria>Deportes</categoria>
+        <precio>500.15</precio>
+        <stock>7</stock>
+    </producto>
+    <producto id="639">
+        <nombre>Biografía 837</nombre>
+        <categoria>Libros</categoria>
+        <precio>467.61</precio>
+        <stock>390</stock>
+    </producto>
+    <producto id="640">
+        <nombre>Armario 353</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1203.78</precio>
+        <stock>136</stock>
+    </producto>
+    <producto id="641">
+        <nombre>Ensayo 785</nombre>
+        <categoria>Libros</categoria>
+        <precio>1049.47</precio>
+        <stock>368</stock>
+    </producto>
+    <producto id="642">
+        <nombre>Pelota 463</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>25.74</precio>
+        <stock>137</stock>
+    </producto>
+    <producto id="643">
+        <nombre>Coche de juguete 861</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>638.08</precio>
+        <stock>123</stock>
+    </producto>
+    <producto id="644">
+        <nombre>Impresora 301</nombre>
+        <categoria>Informática</categoria>
+        <precio>1344.44</precio>
+        <stock>89</stock>
+    </producto>
+    <producto id="645">
+        <nombre>Pesas 180</nombre>
+        <categoria>Deportes</categoria>
+        <precio>232.27</precio>
+        <stock>34</stock>
+    </producto>
+    <producto id="646">
+        <nombre>Pelota 993</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>381.41</precio>
+        <stock>322</stock>
+    </producto>
+    <producto id="647">
+        <nombre>Pasta 112</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1144.81</precio>
+        <stock>70</stock>
+    </producto>
+    <producto id="648">
+        <nombre>Puzzle 333</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1040.55</precio>
+        <stock>467</stock>
+    </producto>
+    <producto id="649">
+        <nombre>Lámpara 729</nombre>
+        <categoria>Hogar</categoria>
+        <precio>580.83</precio>
+        <stock>103</stock>
+    </producto>
+    <producto id="650">
+        <nombre>Teclado 475</nombre>
+        <categoria>Informática</categoria>
+        <precio>1143.77</precio>
+        <stock>131</stock>
+    </producto>
+    <producto id="651">
+        <nombre>Muñeca 465</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>209.3</precio>
+        <stock>56</stock>
+    </producto>
+    <producto id="652">
+        <nombre>Cómic 832</nombre>
+        <categoria>Libros</categoria>
+        <precio>490.67</precio>
+        <stock>4</stock>
+    </producto>
+    <producto id="653">
+        <nombre>Pasta 567</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1278.51</precio>
+        <stock>76</stock>
+    </producto>
+    <producto id="654">
+        <nombre>Zapatos 812</nombre>
+        <categoria>Ropa</categoria>
+        <precio>505.82</precio>
+        <stock>264</stock>
+    </producto>
+    <producto id="655">
+        <nombre>Monitor 269</nombre>
+        <categoria>Informática</categoria>
+        <precio>486.2</precio>
+        <stock>366</stock>
+    </producto>
+    <producto id="656">
+        <nombre>Teclado 313</nombre>
+        <categoria>Informática</categoria>
+        <precio>244.6</precio>
+        <stock>132</stock>
+    </producto>
+    <producto id="657">
+        <nombre>Teclado 704</nombre>
+        <categoria>Informática</categoria>
+        <precio>228.05</precio>
+        <stock>137</stock>
+    </producto>
+    <producto id="658">
+        <nombre>Bufanda 330</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1432.92</precio>
+        <stock>448</stock>
+    </producto>
+    <producto id="659">
+        <nombre>Silla 839</nombre>
+        <categoria>Hogar</categoria>
+        <precio>417.89</precio>
+        <stock>3</stock>
+    </producto>
+    <producto id="660">
+        <nombre>Bicicleta 171</nombre>
+        <categoria>Deportes</categoria>
+        <precio>62.47</precio>
+        <stock>306</stock>
+    </producto>
+    <producto id="661">
+        <nombre>Altavoz 120</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1181.02</precio>
+        <stock>340</stock>
+    </producto>
+    <producto id="662">
+        <nombre>Lámpara 664</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1162.57</precio>
+        <stock>191</stock>
+    </producto>
+    <producto id="663">
+        <nombre>Cama 391</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1046.0</precio>
+        <stock>355</stock>
+    </producto>
+    <producto id="664">
+        <nombre>Cómic 951</nombre>
+        <categoria>Libros</categoria>
+        <precio>488.52</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="665">
+        <nombre>Cámara 457</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>346.28</precio>
+        <stock>106</stock>
+    </producto>
+    <producto id="666">
+        <nombre>Televisor 655</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>278.76</precio>
+        <stock>289</stock>
+    </producto>
+    <producto id="667">
+        <nombre>Mesa 413</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1297.11</precio>
+        <stock>277</stock>
+    </producto>
+    <producto id="668">
+        <nombre>Portátil 315</nombre>
+        <categoria>Informática</categoria>
+        <precio>722.91</precio>
+        <stock>431</stock>
+    </producto>
+    <producto id="669">
+        <nombre>Lego 236</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>243.4</precio>
+        <stock>439</stock>
+    </producto>
+    <producto id="670">
+        <nombre>Altavoz 334</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>408.65</precio>
+        <stock>273</stock>
+    </producto>
+    <producto id="671">
+        <nombre>Mesa 171</nombre>
+        <categoria>Hogar</categoria>
+        <precio>213.02</precio>
+        <stock>228</stock>
+    </producto>
+    <producto id="672">
+        <nombre>Mesa 907</nombre>
+        <categoria>Hogar</categoria>
+        <precio>35.15</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="673">
+        <nombre>Cama 278</nombre>
+        <categoria>Hogar</categoria>
+        <precio>623.1</precio>
+        <stock>327</stock>
+    </producto>
+    <producto id="674">
+        <nombre>Ensayo 729</nombre>
+        <categoria>Libros</categoria>
+        <precio>755.31</precio>
+        <stock>120</stock>
+    </producto>
+    <producto id="675">
+        <nombre>Balón 150</nombre>
+        <categoria>Deportes</categoria>
+        <precio>219.39</precio>
+        <stock>50</stock>
+    </producto>
+    <producto id="676">
+        <nombre>Puzzle 658</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1311.63</precio>
+        <stock>477</stock>
+    </producto>
+    <producto id="677">
+        <nombre>Bufanda 275</nombre>
+        <categoria>Ropa</categoria>
+        <precio>57.79</precio>
+        <stock>276</stock>
+    </producto>
+    <producto id="678">
+        <nombre>Portátil 753</nombre>
+        <categoria>Informática</categoria>
+        <precio>1277.03</precio>
+        <stock>117</stock>
+    </producto>
+    <producto id="679">
+        <nombre>Zapatos 742</nombre>
+        <categoria>Ropa</categoria>
+        <precio>312.01</precio>
+        <stock>328</stock>
+    </producto>
+    <producto id="680">
+        <nombre>Cámara 687</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>846.9</precio>
+        <stock>21</stock>
+    </producto>
+    <producto id="681">
+        <nombre>Televisor 772</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1190.53</precio>
+        <stock>477</stock>
+    </producto>
+    <producto id="682">
+        <nombre>Novela 833</nombre>
+        <categoria>Libros</categoria>
+        <precio>335.34</precio>
+        <stock>63</stock>
+    </producto>
+    <producto id="683">
+        <nombre>Teclado 225</nombre>
+        <categoria>Informática</categoria>
+        <precio>1326.74</precio>
+        <stock>448</stock>
+    </producto>
+    <producto id="684">
+        <nombre>Auriculares 613</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>995.7</precio>
+        <stock>251</stock>
+    </producto>
+    <producto id="685">
+        <nombre>Televisor 426</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1217.49</precio>
+        <stock>222</stock>
+    </producto>
+    <producto id="686">
+        <nombre>Drone infantil 183</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1282.77</precio>
+        <stock>397</stock>
+    </producto>
+    <producto id="687">
+        <nombre>Café 270</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1039.82</precio>
+        <stock>439</stock>
+    </producto>
+    <producto id="688">
+        <nombre>Silla 624</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1001.62</precio>
+        <stock>123</stock>
+    </producto>
+    <producto id="689">
+        <nombre>Manual 866</nombre>
+        <categoria>Libros</categoria>
+        <precio>47.27</precio>
+        <stock>14</stock>
+    </producto>
+    <producto id="690">
+        <nombre>Cama 671</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1345.74</precio>
+        <stock>285</stock>
+    </producto>
+    <producto id="691">
+        <nombre>Smartphone 362</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1251.7</precio>
+        <stock>315</stock>
+    </producto>
+    <producto id="692">
+        <nombre>Pelota 689</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1414.82</precio>
+        <stock>38</stock>
+    </producto>
+    <producto id="693">
+        <nombre>Biografía 338</nombre>
+        <categoria>Libros</categoria>
+        <precio>1446.8</precio>
+        <stock>249</stock>
+    </producto>
+    <producto id="694">
+        <nombre>Disco Duro 749</nombre>
+        <categoria>Informática</categoria>
+        <precio>984.12</precio>
+        <stock>163</stock>
+    </producto>
+    <producto id="695">
+        <nombre>Biografía 413</nombre>
+        <categoria>Libros</categoria>
+        <precio>529.49</precio>
+        <stock>293</stock>
+    </producto>
+    <producto id="696">
+        <nombre>Muñeca 505</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>301.81</precio>
+        <stock>93</stock>
+    </producto>
+    <producto id="697">
+        <nombre>Ratón 310</nombre>
+        <categoria>Informática</categoria>
+        <precio>1485.67</precio>
+        <stock>208</stock>
+    </producto>
+    <producto id="698">
+        <nombre>Cereal 922</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>680.73</precio>
+        <stock>374</stock>
+    </producto>
+    <producto id="699">
+        <nombre>Aceite 248</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>629.6</precio>
+        <stock>189</stock>
+    </producto>
+    <producto id="700">
+        <nombre>Novela 229</nombre>
+        <categoria>Libros</categoria>
+        <precio>941.89</precio>
+        <stock>313</stock>
+    </producto>
+    <producto id="701">
+        <nombre>Televisor 841</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1293.37</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="702">
+        <nombre>Raqueta 122</nombre>
+        <categoria>Deportes</categoria>
+        <precio>171.4</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="703">
+        <nombre>Ratón 952</nombre>
+        <categoria>Informática</categoria>
+        <precio>1328.74</precio>
+        <stock>124</stock>
+    </producto>
+    <producto id="704">
+        <nombre>Bicicleta 527</nombre>
+        <categoria>Deportes</categoria>
+        <precio>670.69</precio>
+        <stock>146</stock>
+    </producto>
+    <producto id="705">
+        <nombre>Ratón 136</nombre>
+        <categoria>Informática</categoria>
+        <precio>1071.04</precio>
+        <stock>69</stock>
+    </producto>
+    <producto id="706">
+        <nombre>Ensayo 637</nombre>
+        <categoria>Libros</categoria>
+        <precio>439.29</precio>
+        <stock>48</stock>
+    </producto>
+    <producto id="707">
+        <nombre>Mesa 844</nombre>
+        <categoria>Hogar</categoria>
+        <precio>366.1</precio>
+        <stock>271</stock>
+    </producto>
+    <producto id="708">
+        <nombre>Zapatos 119</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1290.02</precio>
+        <stock>126</stock>
+    </producto>
+    <producto id="709">
+        <nombre>Monitor 304</nombre>
+        <categoria>Informática</categoria>
+        <precio>276.74</precio>
+        <stock>465</stock>
+    </producto>
+    <producto id="710">
+        <nombre>Camiseta 599</nombre>
+        <categoria>Ropa</categoria>
+        <precio>385.55</precio>
+        <stock>496</stock>
+    </producto>
+    <producto id="711">
+        <nombre>Manual 720</nombre>
+        <categoria>Libros</categoria>
+        <precio>385.86</precio>
+        <stock>14</stock>
+    </producto>
+    <producto id="712">
+        <nombre>Raqueta 384</nombre>
+        <categoria>Deportes</categoria>
+        <precio>593.1</precio>
+        <stock>366</stock>
+    </producto>
+    <producto id="713">
+        <nombre>Arroz 365</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>414.03</precio>
+        <stock>39</stock>
+    </producto>
+    <producto id="714">
+        <nombre>Mesa 630</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1172.76</precio>
+        <stock>228</stock>
+    </producto>
+    <producto id="715">
+        <nombre>Armario 478</nombre>
+        <categoria>Hogar</categoria>
+        <precio>373.18</precio>
+        <stock>265</stock>
+    </producto>
+    <producto id="716">
+        <nombre>Auriculares 526</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>647.89</precio>
+        <stock>56</stock>
+    </producto>
+    <producto id="717">
+        <nombre>Leche 972</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>550.84</precio>
+        <stock>95</stock>
+    </producto>
+    <producto id="718">
+        <nombre>Biografía 955</nombre>
+        <categoria>Libros</categoria>
+        <precio>104.04</precio>
+        <stock>176</stock>
+    </producto>
+    <producto id="719">
+        <nombre>Cómic 121</nombre>
+        <categoria>Libros</categoria>
+        <precio>402.22</precio>
+        <stock>150</stock>
+    </producto>
+    <producto id="720">
+        <nombre>Novela 797</nombre>
+        <categoria>Libros</categoria>
+        <precio>1035.94</precio>
+        <stock>49</stock>
+    </producto>
+    <producto id="721">
+        <nombre>Drone infantil 988</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>813.61</precio>
+        <stock>131</stock>
+    </producto>
+    <producto id="722">
+        <nombre>Mesa 305</nombre>
+        <categoria>Hogar</categoria>
+        <precio>16.69</precio>
+        <stock>298</stock>
+    </producto>
+    <producto id="723">
+        <nombre>Mesa 945</nombre>
+        <categoria>Hogar</categoria>
+        <precio>301.22</precio>
+        <stock>474</stock>
+    </producto>
+    <producto id="724">
+        <nombre>Pasta 411</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1248.7</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="725">
+        <nombre>Coche de juguete 538</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>192.84</precio>
+        <stock>484</stock>
+    </producto>
+    <producto id="726">
+        <nombre>Teclado 394</nombre>
+        <categoria>Informática</categoria>
+        <precio>700.39</precio>
+        <stock>154</stock>
+    </producto>
+    <producto id="727">
+        <nombre>Cómic 204</nombre>
+        <categoria>Libros</categoria>
+        <precio>96.69</precio>
+        <stock>225</stock>
+    </producto>
+    <producto id="728">
+        <nombre>Leche 685</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1236.24</precio>
+        <stock>133</stock>
+    </producto>
+    <producto id="729">
+        <nombre>Cojín 582</nombre>
+        <categoria>Hogar</categoria>
+        <precio>734.29</precio>
+        <stock>158</stock>
+    </producto>
+    <producto id="730">
+        <nombre>Muñeca 275</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>567.09</precio>
+        <stock>359</stock>
+    </producto>
+    <producto id="731">
+        <nombre>Zapatos 100</nombre>
+        <categoria>Ropa</categoria>
+        <precio>871.1</precio>
+        <stock>174</stock>
+    </producto>
+    <producto id="732">
+        <nombre>Cojín 516</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1201.78</precio>
+        <stock>438</stock>
+    </producto>
+    <producto id="733">
+        <nombre>Tablet 227</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>424.69</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="734">
+        <nombre>Camiseta 228</nombre>
+        <categoria>Ropa</categoria>
+        <precio>416.95</precio>
+        <stock>420</stock>
+    </producto>
+    <producto id="735">
+        <nombre>Patines 282</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1107.34</precio>
+        <stock>490</stock>
+    </producto>
+    <producto id="736">
+        <nombre>Raqueta 206</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1448.64</precio>
+        <stock>130</stock>
+    </producto>
+    <producto id="737">
+        <nombre>Diccionario 191</nombre>
+        <categoria>Libros</categoria>
+        <precio>1274.69</precio>
+        <stock>275</stock>
+    </producto>
+    <producto id="738">
+        <nombre>Coche de juguete 678</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1375.61</precio>
+        <stock>478</stock>
+    </producto>
+    <producto id="739">
+        <nombre>Raqueta 406</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1327.97</precio>
+        <stock>383</stock>
+    </producto>
+    <producto id="740">
+        <nombre>Silla 884</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1305.25</precio>
+        <stock>76</stock>
+    </producto>
+    <producto id="741">
+        <nombre>Mesa 815</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1478.89</precio>
+        <stock>407</stock>
+    </producto>
+    <producto id="742">
+        <nombre>Ensayo 363</nombre>
+        <categoria>Libros</categoria>
+        <precio>251.55</precio>
+        <stock>232</stock>
+    </producto>
+    <producto id="743">
+        <nombre>Lego 540</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1494.84</precio>
+        <stock>443</stock>
+    </producto>
+    <producto id="744">
+        <nombre>Monitor 717</nombre>
+        <categoria>Informática</categoria>
+        <precio>1249.64</precio>
+        <stock>435</stock>
+    </producto>
+    <producto id="745">
+        <nombre>Cómic 536</nombre>
+        <categoria>Libros</categoria>
+        <precio>261.83</precio>
+        <stock>255</stock>
+    </producto>
+    <producto id="746">
+        <nombre>Teclado 794</nombre>
+        <categoria>Informática</categoria>
+        <precio>351.2</precio>
+        <stock>241</stock>
+    </producto>
+    <producto id="747">
+        <nombre>Silla 624</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1099.41</precio>
+        <stock>220</stock>
+    </producto>
+    <producto id="748">
+        <nombre>Camiseta 795</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1089.37</precio>
+        <stock>498</stock>
+    </producto>
+    <producto id="749">
+        <nombre>Bufanda 170</nombre>
+        <categoria>Ropa</categoria>
+        <precio>715.7</precio>
+        <stock>258</stock>
+    </producto>
+    <producto id="750">
+        <nombre>Manual 851</nombre>
+        <categoria>Libros</categoria>
+        <precio>1494.44</precio>
+        <stock>390</stock>
+    </producto>
+    <producto id="751">
+        <nombre>Silla 856</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1353.64</precio>
+        <stock>431</stock>
+    </producto>
+    <producto id="752">
+        <nombre>Disco Duro 360</nombre>
+        <categoria>Informática</categoria>
+        <precio>1320.74</precio>
+        <stock>105</stock>
+    </producto>
+    <producto id="753">
+        <nombre>Impresora 374</nombre>
+        <categoria>Informática</categoria>
+        <precio>359.02</precio>
+        <stock>75</stock>
+    </producto>
+    <producto id="754">
+        <nombre>Balón 686</nombre>
+        <categoria>Deportes</categoria>
+        <precio>846.82</precio>
+        <stock>122</stock>
+    </producto>
+    <producto id="755">
+        <nombre>Ratón 451</nombre>
+        <categoria>Informática</categoria>
+        <precio>1017.75</precio>
+        <stock>243</stock>
+    </producto>
+    <producto id="756">
+        <nombre>Puzzle 700</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>813.74</precio>
+        <stock>329</stock>
+    </producto>
+    <producto id="757">
+        <nombre>Silla 696</nombre>
+        <categoria>Hogar</categoria>
+        <precio>772.27</precio>
+        <stock>166</stock>
+    </producto>
+    <producto id="758">
+        <nombre>Raqueta 670</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1368.45</precio>
+        <stock>483</stock>
+    </producto>
+    <producto id="759">
+        <nombre>Bicicleta 281</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1458.61</precio>
+        <stock>303</stock>
+    </producto>
+    <producto id="760">
+        <nombre>Monitor 744</nombre>
+        <categoria>Informática</categoria>
+        <precio>914.94</precio>
+        <stock>473</stock>
+    </producto>
+    <producto id="761">
+        <nombre>Aceite 143</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>402.71</precio>
+        <stock>130</stock>
+    </producto>
+    <producto id="762">
+        <nombre>Smartphone 734</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>787.96</precio>
+        <stock>67</stock>
+    </producto>
+    <producto id="763">
+        <nombre>Leche 285</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>111.73</precio>
+        <stock>249</stock>
+    </producto>
+    <producto id="764">
+        <nombre>Novela 106</nombre>
+        <categoria>Libros</categoria>
+        <precio>358.78</precio>
+        <stock>29</stock>
+    </producto>
+    <producto id="765">
+        <nombre>Manual 703</nombre>
+        <categoria>Libros</categoria>
+        <precio>1438.45</precio>
+        <stock>375</stock>
+    </producto>
+    <producto id="766">
+        <nombre>Auriculares 547</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>398.2</precio>
+        <stock>296</stock>
+    </producto>
+    <producto id="767">
+        <nombre>Lego 367</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1494.48</precio>
+        <stock>101</stock>
+    </producto>
+    <producto id="768">
+        <nombre>Diccionario 187</nombre>
+        <categoria>Libros</categoria>
+        <precio>1168.67</precio>
+        <stock>128</stock>
+    </producto>
+    <producto id="769">
+        <nombre>Manual 154</nombre>
+        <categoria>Libros</categoria>
+        <precio>366.39</precio>
+        <stock>438</stock>
+    </producto>
+    <producto id="770">
+        <nombre>Armario 128</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1493.46</precio>
+        <stock>419</stock>
+    </producto>
+    <producto id="771">
+        <nombre>Chaqueta 877</nombre>
+        <categoria>Ropa</categoria>
+        <precio>900.88</precio>
+        <stock>454</stock>
+    </producto>
+    <producto id="772">
+        <nombre>Zapatos 140</nombre>
+        <categoria>Ropa</categoria>
+        <precio>691.94</precio>
+        <stock>214</stock>
+    </producto>
+    <producto id="773">
+        <nombre>Puzzle 192</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1372.42</precio>
+        <stock>37</stock>
+    </producto>
+    <producto id="774">
+        <nombre>Teclado 956</nombre>
+        <categoria>Informática</categoria>
+        <precio>1459.37</precio>
+        <stock>324</stock>
+    </producto>
+    <producto id="775">
+        <nombre>Armario 249</nombre>
+        <categoria>Hogar</categoria>
+        <precio>937.76</precio>
+        <stock>22</stock>
+    </producto>
+    <producto id="776">
+        <nombre>Mesa 669</nombre>
+        <categoria>Hogar</categoria>
+        <precio>138.84</precio>
+        <stock>265</stock>
+    </producto>
+    <producto id="777">
+        <nombre>Cámara 821</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1130.87</precio>
+        <stock>370</stock>
+    </producto>
+    <producto id="778">
+        <nombre>Silla 182</nombre>
+        <categoria>Hogar</categoria>
+        <precio>876.35</precio>
+        <stock>217</stock>
+    </producto>
+    <producto id="779">
+        <nombre>Teclado 486</nombre>
+        <categoria>Informática</categoria>
+        <precio>274.28</precio>
+        <stock>163</stock>
+    </producto>
+    <producto id="780">
+        <nombre>Pelota 992</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>92.57</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="781">
+        <nombre>Zapatos 352</nombre>
+        <categoria>Ropa</categoria>
+        <precio>699.76</precio>
+        <stock>225</stock>
+    </producto>
+    <producto id="782">
+        <nombre>Ratón 388</nombre>
+        <categoria>Informática</categoria>
+        <precio>19.28</precio>
+        <stock>255</stock>
+    </producto>
+    <producto id="783">
+        <nombre>Cámara 608</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>804.25</precio>
+        <stock>124</stock>
+    </producto>
+    <producto id="784">
+        <nombre>Lámpara 921</nombre>
+        <categoria>Hogar</categoria>
+        <precio>728.4</precio>
+        <stock>149</stock>
+    </producto>
+    <producto id="785">
+        <nombre>Altavoz 548</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1473.53</precio>
+        <stock>237</stock>
+    </producto>
+    <producto id="786">
+        <nombre>Cómic 430</nombre>
+        <categoria>Libros</categoria>
+        <precio>1292.79</precio>
+        <stock>292</stock>
+    </producto>
+    <producto id="787">
+        <nombre>Cómic 537</nombre>
+        <categoria>Libros</categoria>
+        <precio>5.6</precio>
+        <stock>32</stock>
+    </producto>
+    <producto id="788">
+        <nombre>Silla 330</nombre>
+        <categoria>Hogar</categoria>
+        <precio>647.52</precio>
+        <stock>376</stock>
+    </producto>
+    <producto id="789">
+        <nombre>Camiseta 743</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1173.46</precio>
+        <stock>450</stock>
+    </producto>
+    <producto id="790">
+        <nombre>Cereal 815</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>357.8</precio>
+        <stock>36</stock>
+    </producto>
+    <producto id="791">
+        <nombre>Chaqueta 709</nombre>
+        <categoria>Ropa</categoria>
+        <precio>696.71</precio>
+        <stock>334</stock>
+    </producto>
+    <producto id="792">
+        <nombre>Zapatos 357</nombre>
+        <categoria>Ropa</categoria>
+        <precio>224.13</precio>
+        <stock>86</stock>
+    </producto>
+    <producto id="793">
+        <nombre>Raqueta 580</nombre>
+        <categoria>Deportes</categoria>
+        <precio>733.34</precio>
+        <stock>248</stock>
+    </producto>
+    <producto id="794">
+        <nombre>Zapatos 766</nombre>
+        <categoria>Ropa</categoria>
+        <precio>375.23</precio>
+        <stock>460</stock>
+    </producto>
+    <producto id="795">
+        <nombre>Drone infantil 121</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>858.2</precio>
+        <stock>34</stock>
+    </producto>
+    <producto id="796">
+        <nombre>Camiseta 865</nombre>
+        <categoria>Ropa</categoria>
+        <precio>720.07</precio>
+        <stock>355</stock>
+    </producto>
+    <producto id="797">
+        <nombre>Disco Duro 423</nombre>
+        <categoria>Informática</categoria>
+        <precio>861.97</precio>
+        <stock>371</stock>
+    </producto>
+    <producto id="798">
+        <nombre>Gorra 468</nombre>
+        <categoria>Ropa</categoria>
+        <precio>771.23</precio>
+        <stock>24</stock>
+    </producto>
+    <producto id="799">
+        <nombre>Balón 714</nombre>
+        <categoria>Deportes</categoria>
+        <precio>854.6</precio>
+        <stock>454</stock>
+    </producto>
+    <producto id="800">
+        <nombre>Coche de juguete 150</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>290.5</precio>
+        <stock>460</stock>
+    </producto>
+    <producto id="801">
+        <nombre>Patines 519</nombre>
+        <categoria>Deportes</categoria>
+        <precio>979.31</precio>
+        <stock>421</stock>
+    </producto>
+    <producto id="802">
+        <nombre>Leche 600</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>905.86</precio>
+        <stock>225</stock>
+    </producto>
+    <producto id="803">
+        <nombre>Camiseta 442</nombre>
+        <categoria>Ropa</categoria>
+        <precio>936.54</precio>
+        <stock>370</stock>
+    </producto>
+    <producto id="804">
+        <nombre>Ensayo 425</nombre>
+        <categoria>Libros</categoria>
+        <precio>409.21</precio>
+        <stock>412</stock>
+    </producto>
+    <producto id="805">
+        <nombre>Televisor 256</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1088.85</precio>
+        <stock>350</stock>
+    </producto>
+    <producto id="806">
+        <nombre>Leche 683</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>253.69</precio>
+        <stock>396</stock>
+    </producto>
+    <producto id="807">
+        <nombre>Lámpara 445</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1151.23</precio>
+        <stock>318</stock>
+    </producto>
+    <producto id="808">
+        <nombre>Cojín 478</nombre>
+        <categoria>Hogar</categoria>
+        <precio>64.06</precio>
+        <stock>111</stock>
+    </producto>
+    <producto id="809">
+        <nombre>Drone infantil 411</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>125.45</precio>
+        <stock>397</stock>
+    </producto>
+    <producto id="810">
+        <nombre>Altavoz 321</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1182.53</precio>
+        <stock>18</stock>
+    </producto>
+    <producto id="811">
+        <nombre>Diccionario 160</nombre>
+        <categoria>Libros</categoria>
+        <precio>613.49</precio>
+        <stock>361</stock>
+    </producto>
+    <producto id="812">
+        <nombre>Bicicleta 127</nombre>
+        <categoria>Deportes</categoria>
+        <precio>531.58</precio>
+        <stock>45</stock>
+    </producto>
+    <producto id="813">
+        <nombre>Cámara 310</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1441.31</precio>
+        <stock>125</stock>
+    </producto>
+    <producto id="814">
+        <nombre>Cómic 556</nombre>
+        <categoria>Libros</categoria>
+        <precio>1062.23</precio>
+        <stock>150</stock>
+    </producto>
+    <producto id="815">
+        <nombre>Chaqueta 598</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1238.44</precio>
+        <stock>294</stock>
+    </producto>
+    <producto id="816">
+        <nombre>Monitor 154</nombre>
+        <categoria>Informática</categoria>
+        <precio>956.78</precio>
+        <stock>189</stock>
+    </producto>
+    <producto id="817">
+        <nombre>Bufanda 567</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1208.21</precio>
+        <stock>298</stock>
+    </producto>
+    <producto id="818">
+        <nombre>Cojín 714</nombre>
+        <categoria>Hogar</categoria>
+        <precio>970.23</precio>
+        <stock>91</stock>
+    </producto>
+    <producto id="819">
+        <nombre>Aceite 815</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>124.33</precio>
+        <stock>216</stock>
+    </producto>
+    <producto id="820">
+        <nombre>Novela 105</nombre>
+        <categoria>Libros</categoria>
+        <precio>455.01</precio>
+        <stock>235</stock>
+    </producto>
+    <producto id="821">
+        <nombre>Diccionario 907</nombre>
+        <categoria>Libros</categoria>
+        <precio>1430.92</precio>
+        <stock>53</stock>
+    </producto>
+    <producto id="822">
+        <nombre>Puzzle 264</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>650.12</precio>
+        <stock>92</stock>
+    </producto>
+    <producto id="823">
+        <nombre>Muñeca 560</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>374.0</precio>
+        <stock>1</stock>
+    </producto>
+    <producto id="824">
+        <nombre>Raqueta 675</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1178.84</precio>
+        <stock>65</stock>
+    </producto>
+    <producto id="825">
+        <nombre>Cereal 924</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1317.55</precio>
+        <stock>155</stock>
+    </producto>
+    <producto id="826">
+        <nombre>Leche 149</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1226.03</precio>
+        <stock>429</stock>
+    </producto>
+    <producto id="827">
+        <nombre>Cereal 309</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1149.62</precio>
+        <stock>322</stock>
+    </producto>
+    <producto id="828">
+        <nombre>Chaqueta 960</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1051.82</precio>
+        <stock>180</stock>
+    </producto>
+    <producto id="829">
+        <nombre>Ensayo 534</nombre>
+        <categoria>Libros</categoria>
+        <precio>411.73</precio>
+        <stock>412</stock>
+    </producto>
+    <producto id="830">
+        <nombre>Biografía 848</nombre>
+        <categoria>Libros</categoria>
+        <precio>535.01</precio>
+        <stock>61</stock>
+    </producto>
+    <producto id="831">
+        <nombre>Cámara 832</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1247.25</precio>
+        <stock>243</stock>
+    </producto>
+    <producto id="832">
+        <nombre>Tablet 507</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1254.22</precio>
+        <stock>297</stock>
+    </producto>
+    <producto id="833">
+        <nombre>Aceite 323</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>593.53</precio>
+        <stock>105</stock>
+    </producto>
+    <producto id="834">
+        <nombre>Cinta de correr 545</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1430.12</precio>
+        <stock>371</stock>
+    </producto>
+    <producto id="835">
+        <nombre>Televisor 623</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1108.99</precio>
+        <stock>84</stock>
+    </producto>
+    <producto id="836">
+        <nombre>Raqueta 193</nombre>
+        <categoria>Deportes</categoria>
+        <precio>941.92</precio>
+        <stock>315</stock>
+    </producto>
+    <producto id="837">
+        <nombre>Leche 504</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1020.64</precio>
+        <stock>400</stock>
+    </producto>
+    <producto id="838">
+        <nombre>Chaqueta 321</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1471.43</precio>
+        <stock>247</stock>
+    </producto>
+    <producto id="839">
+        <nombre>Pelota 193</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>922.68</precio>
+        <stock>344</stock>
+    </producto>
+    <producto id="840">
+        <nombre>Raqueta 425</nombre>
+        <categoria>Deportes</categoria>
+        <precio>977.71</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="841">
+        <nombre>Ratón 946</nombre>
+        <categoria>Informática</categoria>
+        <precio>1298.79</precio>
+        <stock>94</stock>
+    </producto>
+    <producto id="842">
+        <nombre>Zapatos 750</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1225.68</precio>
+        <stock>229</stock>
+    </producto>
+    <producto id="843">
+        <nombre>Gorra 961</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1145.68</precio>
+        <stock>73</stock>
+    </producto>
+    <producto id="844">
+        <nombre>Bicicleta 599</nombre>
+        <categoria>Deportes</categoria>
+        <precio>521.02</precio>
+        <stock>212</stock>
+    </producto>
+    <producto id="845">
+        <nombre>Cojín 699</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1365.25</precio>
+        <stock>117</stock>
+    </producto>
+    <producto id="846">
+        <nombre>Ratón 202</nombre>
+        <categoria>Informática</categoria>
+        <precio>583.61</precio>
+        <stock>125</stock>
+    </producto>
+    <producto id="847">
+        <nombre>Cereal 762</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>248.27</precio>
+        <stock>136</stock>
+    </producto>
+    <producto id="848">
+        <nombre>Raqueta 305</nombre>
+        <categoria>Deportes</categoria>
+        <precio>536.62</precio>
+        <stock>205</stock>
+    </producto>
+    <producto id="849">
+        <nombre>Smartphone 873</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>143.88</precio>
+        <stock>369</stock>
+    </producto>
+    <producto id="850">
+        <nombre>Coche de juguete 129</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1495.35</precio>
+        <stock>209</stock>
+    </producto>
+    <producto id="851">
+        <nombre>Cama 695</nombre>
+        <categoria>Hogar</categoria>
+        <precio>629.88</precio>
+        <stock>341</stock>
+    </producto>
+    <producto id="852">
+        <nombre>Novela 708</nombre>
+        <categoria>Libros</categoria>
+        <precio>244.58</precio>
+        <stock>240</stock>
+    </producto>
+    <producto id="853">
+        <nombre>Aceite 823</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1021.12</precio>
+        <stock>449</stock>
+    </producto>
+    <producto id="854">
+        <nombre>Ensayo 450</nombre>
+        <categoria>Libros</categoria>
+        <precio>1211.59</precio>
+        <stock>23</stock>
+    </producto>
+    <producto id="855">
+        <nombre>Camiseta 868</nombre>
+        <categoria>Ropa</categoria>
+        <precio>199.87</precio>
+        <stock>393</stock>
+    </producto>
+    <producto id="856">
+        <nombre>Lámpara 959</nombre>
+        <categoria>Hogar</categoria>
+        <precio>918.54</precio>
+        <stock>386</stock>
+    </producto>
+    <producto id="857">
+        <nombre>Manual 221</nombre>
+        <categoria>Libros</categoria>
+        <precio>169.67</precio>
+        <stock>217</stock>
+    </producto>
+    <producto id="858">
+        <nombre>Cinta de correr 835</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1217.3</precio>
+        <stock>199</stock>
+    </producto>
+    <producto id="859">
+        <nombre>Cereal 493</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1192.05</precio>
+        <stock>37</stock>
+    </producto>
+    <producto id="860">
+        <nombre>Cómic 325</nombre>
+        <categoria>Libros</categoria>
+        <precio>124.38</precio>
+        <stock>454</stock>
+    </producto>
+    <producto id="861">
+        <nombre>Smartphone 158</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>170.39</precio>
+        <stock>449</stock>
+    </producto>
+    <producto id="862">
+        <nombre>Pasta 681</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>566.9</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="863">
+        <nombre>Disco Duro 725</nombre>
+        <categoria>Informática</categoria>
+        <precio>1072.14</precio>
+        <stock>208</stock>
+    </producto>
+    <producto id="864">
+        <nombre>Patines 830</nombre>
+        <categoria>Deportes</categoria>
+        <precio>991.22</precio>
+        <stock>166</stock>
+    </producto>
+    <producto id="865">
+        <nombre>Lego 770</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1123.11</precio>
+        <stock>71</stock>
+    </producto>
+    <producto id="866">
+        <nombre>Raqueta 371</nombre>
+        <categoria>Deportes</categoria>
+        <precio>791.36</precio>
+        <stock>216</stock>
+    </producto>
+    <producto id="867">
+        <nombre>Puzzle 911</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>65.58</precio>
+        <stock>281</stock>
+    </producto>
+    <producto id="868">
+        <nombre>Ratón 911</nombre>
+        <categoria>Informática</categoria>
+        <precio>636.18</precio>
+        <stock>463</stock>
+    </producto>
+    <producto id="869">
+        <nombre>Smartphone 282</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>929.63</precio>
+        <stock>428</stock>
+    </producto>
+    <producto id="870">
+        <nombre>Cinta de correr 169</nombre>
+        <categoria>Deportes</categoria>
+        <precio>612.04</precio>
+        <stock>435</stock>
+    </producto>
+    <producto id="871">
+        <nombre>Lego 528</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>488.73</precio>
+        <stock>350</stock>
+    </producto>
+    <producto id="872">
+        <nombre>Altavoz 960</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>196.52</precio>
+        <stock>218</stock>
+    </producto>
+    <producto id="873">
+        <nombre>Armario 960</nombre>
+        <categoria>Hogar</categoria>
+        <precio>312.06</precio>
+        <stock>467</stock>
+    </producto>
+    <producto id="874">
+        <nombre>Raqueta 251</nombre>
+        <categoria>Deportes</categoria>
+        <precio>539.01</precio>
+        <stock>104</stock>
+    </producto>
+    <producto id="875">
+        <nombre>Biografía 673</nombre>
+        <categoria>Libros</categoria>
+        <precio>339.98</precio>
+        <stock>221</stock>
+    </producto>
+    <producto id="876">
+        <nombre>Cama 186</nombre>
+        <categoria>Hogar</categoria>
+        <precio>457.02</precio>
+        <stock>1</stock>
+    </producto>
+    <producto id="877">
+        <nombre>Camiseta 203</nombre>
+        <categoria>Ropa</categoria>
+        <precio>650.38</precio>
+        <stock>160</stock>
+    </producto>
+    <producto id="878">
+        <nombre>Cámara 952</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1111.53</precio>
+        <stock>456</stock>
+    </producto>
+    <producto id="879">
+        <nombre>Raqueta 869</nombre>
+        <categoria>Deportes</categoria>
+        <precio>34.05</precio>
+        <stock>196</stock>
+    </producto>
+    <producto id="880">
+        <nombre>Drone infantil 259</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1255.2</precio>
+        <stock>107</stock>
+    </producto>
+    <producto id="881">
+        <nombre>Puzzle 863</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1491.58</precio>
+        <stock>338</stock>
+    </producto>
+    <producto id="882">
+        <nombre>Impresora 310</nombre>
+        <categoria>Informática</categoria>
+        <precio>909.39</precio>
+        <stock>119</stock>
+    </producto>
+    <producto id="883">
+        <nombre>Raqueta 656</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1102.5</precio>
+        <stock>336</stock>
+    </producto>
+    <producto id="884">
+        <nombre>Cojín 353</nombre>
+        <categoria>Hogar</categoria>
+        <precio>267.06</precio>
+        <stock>96</stock>
+    </producto>
+    <producto id="885">
+        <nombre>Arroz 107</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>841.06</precio>
+        <stock>262</stock>
+    </producto>
+    <producto id="886">
+        <nombre>Drone infantil 865</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>255.56</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="887">
+        <nombre>Televisor 854</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>858.59</precio>
+        <stock>469</stock>
+    </producto>
+    <producto id="888">
+        <nombre>Cojín 248</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1499.04</precio>
+        <stock>189</stock>
+    </producto>
+    <producto id="889">
+        <nombre>Cinta de correr 152</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1269.32</precio>
+        <stock>121</stock>
+    </producto>
+    <producto id="890">
+        <nombre>Impresora 874</nombre>
+        <categoria>Informática</categoria>
+        <precio>1198.4</precio>
+        <stock>14</stock>
+    </producto>
+    <producto id="891">
+        <nombre>Arroz 486</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1038.34</precio>
+        <stock>372</stock>
+    </producto>
+    <producto id="892">
+        <nombre>Silla 764</nombre>
+        <categoria>Hogar</categoria>
+        <precio>407.78</precio>
+        <stock>365</stock>
+    </producto>
+    <producto id="893">
+        <nombre>Chaqueta 179</nombre>
+        <categoria>Ropa</categoria>
+        <precio>186.55</precio>
+        <stock>31</stock>
+    </producto>
+    <producto id="894">
+        <nombre>Diccionario 309</nombre>
+        <categoria>Libros</categoria>
+        <precio>424.94</precio>
+        <stock>474</stock>
+    </producto>
+    <producto id="895">
+        <nombre>Cama 616</nombre>
+        <categoria>Hogar</categoria>
+        <precio>144.07</precio>
+        <stock>431</stock>
+    </producto>
+    <producto id="896">
+        <nombre>Bufanda 185</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1369.9</precio>
+        <stock>26</stock>
+    </producto>
+    <producto id="897">
+        <nombre>Lego 463</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>844.42</precio>
+        <stock>410</stock>
+    </producto>
+    <producto id="898">
+        <nombre>Cinta de correr 668</nombre>
+        <categoria>Deportes</categoria>
+        <precio>618.78</precio>
+        <stock>286</stock>
+    </producto>
+    <producto id="899">
+        <nombre>Zapatos 247</nombre>
+        <categoria>Ropa</categoria>
+        <precio>750.37</precio>
+        <stock>223</stock>
+    </producto>
+    <producto id="900">
+        <nombre>Balón 703</nombre>
+        <categoria>Deportes</categoria>
+        <precio>128.68</precio>
+        <stock>340</stock>
+    </producto>
+    <producto id="901">
+        <nombre>Lámpara 829</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1027.66</precio>
+        <stock>345</stock>
+    </producto>
+    <producto id="902">
+        <nombre>Lego 755</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>707.28</precio>
+        <stock>115</stock>
+    </producto>
+    <producto id="903">
+        <nombre>Arroz 840</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>704.53</precio>
+        <stock>298</stock>
+    </producto>
+    <producto id="904">
+        <nombre>Ratón 766</nombre>
+        <categoria>Informática</categoria>
+        <precio>103.57</precio>
+        <stock>368</stock>
+    </producto>
+    <producto id="905">
+        <nombre>Cama 930</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1417.54</precio>
+        <stock>72</stock>
+    </producto>
+    <producto id="906">
+        <nombre>Impresora 639</nombre>
+        <categoria>Informática</categoria>
+        <precio>604.08</precio>
+        <stock>336</stock>
+    </producto>
+    <producto id="907">
+        <nombre>Raqueta 306</nombre>
+        <categoria>Deportes</categoria>
+        <precio>931.46</precio>
+        <stock>115</stock>
+    </producto>
+    <producto id="908">
+        <nombre>Cinta de correr 717</nombre>
+        <categoria>Deportes</categoria>
+        <precio>739.47</precio>
+        <stock>278</stock>
+    </producto>
+    <producto id="909">
+        <nombre>Cámara 904</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1483.77</precio>
+        <stock>233</stock>
+    </producto>
+    <producto id="910">
+        <nombre>Monitor 536</nombre>
+        <categoria>Informática</categoria>
+        <precio>1193.27</precio>
+        <stock>124</stock>
+    </producto>
+    <producto id="911">
+        <nombre>Ratón 573</nombre>
+        <categoria>Informática</categoria>
+        <precio>1405.95</precio>
+        <stock>455</stock>
+    </producto>
+    <producto id="912">
+        <nombre>Zapatos 874</nombre>
+        <categoria>Ropa</categoria>
+        <precio>859.67</precio>
+        <stock>385</stock>
+    </producto>
+    <producto id="913">
+        <nombre>Arroz 131</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>196.75</precio>
+        <stock>435</stock>
+    </producto>
+    <producto id="914">
+        <nombre>Pasta 403</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1392.2</precio>
+        <stock>357</stock>
+    </producto>
+    <producto id="915">
+        <nombre>Café 143</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>244.55</precio>
+        <stock>46</stock>
+    </producto>
+    <producto id="916">
+        <nombre>Cámara 243</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>545.4</precio>
+        <stock>172</stock>
+    </producto>
+    <producto id="917">
+        <nombre>Mesa 178</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1447.89</precio>
+        <stock>108</stock>
+    </producto>
+    <producto id="918">
+        <nombre>Cómic 605</nombre>
+        <categoria>Libros</categoria>
+        <precio>1441.56</precio>
+        <stock>165</stock>
+    </producto>
+    <producto id="919">
+        <nombre>Televisor 334</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>552.58</precio>
+        <stock>352</stock>
+    </producto>
+    <producto id="920">
+        <nombre>Cámara 391</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>633.47</precio>
+        <stock>76</stock>
+    </producto>
+    <producto id="921">
+        <nombre>Arroz 776</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>975.61</precio>
+        <stock>192</stock>
+    </producto>
+    <producto id="922">
+        <nombre>Diccionario 701</nombre>
+        <categoria>Libros</categoria>
+        <precio>528.63</precio>
+        <stock>307</stock>
+    </producto>
+    <producto id="923">
+        <nombre>Biografía 153</nombre>
+        <categoria>Libros</categoria>
+        <precio>365.88</precio>
+        <stock>410</stock>
+    </producto>
+    <producto id="924">
+        <nombre>Teclado 834</nombre>
+        <categoria>Informática</categoria>
+        <precio>925.09</precio>
+        <stock>123</stock>
+    </producto>
+    <producto id="925">
+        <nombre>Leche 769</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1484.25</precio>
+        <stock>389</stock>
+    </producto>
+    <producto id="926">
+        <nombre>Lámpara 840</nombre>
+        <categoria>Hogar</categoria>
+        <precio>625.27</precio>
+        <stock>153</stock>
+    </producto>
+    <producto id="927">
+        <nombre>Puzzle 899</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>603.76</precio>
+        <stock>62</stock>
+    </producto>
+    <producto id="928">
+        <nombre>Biografía 404</nombre>
+        <categoria>Libros</categoria>
+        <precio>1410.69</precio>
+        <stock>66</stock>
+    </producto>
+    <producto id="929">
+        <nombre>Leche 568</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>413.83</precio>
+        <stock>169</stock>
+    </producto>
+    <producto id="930">
+        <nombre>Puzzle 820</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>59.66</precio>
+        <stock>343</stock>
+    </producto>
+    <producto id="931">
+        <nombre>Pasta 849</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>634.99</precio>
+        <stock>119</stock>
+    </producto>
+    <producto id="932">
+        <nombre>Pesas 373</nombre>
+        <categoria>Deportes</categoria>
+        <precio>854.39</precio>
+        <stock>2</stock>
+    </producto>
+    <producto id="933">
+        <nombre>Portátil 959</nombre>
+        <categoria>Informática</categoria>
+        <precio>211.0</precio>
+        <stock>248</stock>
+    </producto>
+    <producto id="934">
+        <nombre>Silla 608</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1296.11</precio>
+        <stock>192</stock>
+    </producto>
+    <producto id="935">
+        <nombre>Leche 702</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1029.34</precio>
+        <stock>15</stock>
+    </producto>
+    <producto id="936">
+        <nombre>Bicicleta 297</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1166.54</precio>
+        <stock>355</stock>
+    </producto>
+    <producto id="937">
+        <nombre>Tablet 342</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>764.94</precio>
+        <stock>412</stock>
+    </producto>
+    <producto id="938">
+        <nombre>Chaqueta 196</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1432.54</precio>
+        <stock>274</stock>
+    </producto>
+    <producto id="939">
+        <nombre>Cómic 175</nombre>
+        <categoria>Libros</categoria>
+        <precio>802.15</precio>
+        <stock>204</stock>
+    </producto>
+    <producto id="940">
+        <nombre>Diccionario 509</nombre>
+        <categoria>Libros</categoria>
+        <precio>370.87</precio>
+        <stock>231</stock>
+    </producto>
+    <producto id="941">
+        <nombre>Cómic 622</nombre>
+        <categoria>Libros</categoria>
+        <precio>808.28</precio>
+        <stock>218</stock>
+    </producto>
+    <producto id="942">
+        <nombre>Televisor 584</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>615.99</precio>
+        <stock>444</stock>
+    </producto>
+    <producto id="943">
+        <nombre>Monitor 587</nombre>
+        <categoria>Informática</categoria>
+        <precio>402.61</precio>
+        <stock>171</stock>
+    </producto>
+    <producto id="944">
+        <nombre>Tablet 513</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>19.77</precio>
+        <stock>72</stock>
+    </producto>
+    <producto id="945">
+        <nombre>Manual 450</nombre>
+        <categoria>Libros</categoria>
+        <precio>1334.86</precio>
+        <stock>422</stock>
+    </producto>
+    <producto id="946">
+        <nombre>Ensayo 679</nombre>
+        <categoria>Libros</categoria>
+        <precio>447.18</precio>
+        <stock>364</stock>
+    </producto>
+    <producto id="947">
+        <nombre>Café 307</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1135.79</precio>
+        <stock>333</stock>
+    </producto>
+    <producto id="948">
+        <nombre>Puzzle 405</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1028.61</precio>
+        <stock>278</stock>
+    </producto>
+    <producto id="949">
+        <nombre>Diccionario 955</nombre>
+        <categoria>Libros</categoria>
+        <precio>508.6</precio>
+        <stock>297</stock>
+    </producto>
+    <producto id="950">
+        <nombre>Raqueta 881</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1007.94</precio>
+        <stock>96</stock>
+    </producto>
+    <producto id="951">
+        <nombre>Pasta 420</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>967.17</precio>
+        <stock>157</stock>
+    </producto>
+    <producto id="952">
+        <nombre>Cómic 786</nombre>
+        <categoria>Libros</categoria>
+        <precio>803.38</precio>
+        <stock>352</stock>
+    </producto>
+    <producto id="953">
+        <nombre>Armario 661</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1180.22</precio>
+        <stock>160</stock>
+    </producto>
+    <producto id="954">
+        <nombre>Chaqueta 985</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1019.88</precio>
+        <stock>380</stock>
+    </producto>
+    <producto id="955">
+        <nombre>Patines 113</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1305.72</precio>
+        <stock>319</stock>
+    </producto>
+    <producto id="956">
+        <nombre>Portátil 790</nombre>
+        <categoria>Informática</categoria>
+        <precio>1339.93</precio>
+        <stock>349</stock>
+    </producto>
+    <producto id="957">
+        <nombre>Auriculares 142</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>698.8</precio>
+        <stock>465</stock>
+    </producto>
+    <producto id="958">
+        <nombre>Bicicleta 500</nombre>
+        <categoria>Deportes</categoria>
+        <precio>1236.46</precio>
+        <stock>344</stock>
+    </producto>
+    <producto id="959">
+        <nombre>Disco Duro 375</nombre>
+        <categoria>Informática</categoria>
+        <precio>355.3</precio>
+        <stock>79</stock>
+    </producto>
+    <producto id="960">
+        <nombre>Televisor 979</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>589.25</precio>
+        <stock>277</stock>
+    </producto>
+    <producto id="961">
+        <nombre>Pantalón 918</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1260.07</precio>
+        <stock>212</stock>
+    </producto>
+    <producto id="962">
+        <nombre>Teclado 258</nombre>
+        <categoria>Informática</categoria>
+        <precio>466.88</precio>
+        <stock>350</stock>
+    </producto>
+    <producto id="963">
+        <nombre>Diccionario 258</nombre>
+        <categoria>Libros</categoria>
+        <precio>422.01</precio>
+        <stock>230</stock>
+    </producto>
+    <producto id="964">
+        <nombre>Bufanda 857</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1499.86</precio>
+        <stock>423</stock>
+    </producto>
+    <producto id="965">
+        <nombre>Lámpara 615</nombre>
+        <categoria>Hogar</categoria>
+        <precio>377.89</precio>
+        <stock>32</stock>
+    </producto>
+    <producto id="966">
+        <nombre>Pelota 320</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>674.65</precio>
+        <stock>380</stock>
+    </producto>
+    <producto id="967">
+        <nombre>Leche 291</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1017.26</precio>
+        <stock>245</stock>
+    </producto>
+    <producto id="968">
+        <nombre>Bicicleta 976</nombre>
+        <categoria>Deportes</categoria>
+        <precio>82.69</precio>
+        <stock>143</stock>
+    </producto>
+    <producto id="969">
+        <nombre>Camiseta 943</nombre>
+        <categoria>Ropa</categoria>
+        <precio>172.55</precio>
+        <stock>220</stock>
+    </producto>
+    <producto id="970">
+        <nombre>Puzzle 709</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>1077.81</precio>
+        <stock>296</stock>
+    </producto>
+    <producto id="971">
+        <nombre>Café 581</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>332.28</precio>
+        <stock>404</stock>
+    </producto>
+    <producto id="972">
+        <nombre>Altavoz 959</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1418.86</precio>
+        <stock>200</stock>
+    </producto>
+    <producto id="973">
+        <nombre>Chaqueta 602</nombre>
+        <categoria>Ropa</categoria>
+        <precio>373.97</precio>
+        <stock>115</stock>
+    </producto>
+    <producto id="974">
+        <nombre>Portátil 662</nombre>
+        <categoria>Informática</categoria>
+        <precio>365.71</precio>
+        <stock>44</stock>
+    </producto>
+    <producto id="975">
+        <nombre>Biografía 907</nombre>
+        <categoria>Libros</categoria>
+        <precio>136.94</precio>
+        <stock>449</stock>
+    </producto>
+    <producto id="976">
+        <nombre>Tablet 541</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>538.9</precio>
+        <stock>40</stock>
+    </producto>
+    <producto id="977">
+        <nombre>Silla 901</nombre>
+        <categoria>Hogar</categoria>
+        <precio>780.33</precio>
+        <stock>348</stock>
+    </producto>
+    <producto id="978">
+        <nombre>Televisor 832</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>302.23</precio>
+        <stock>1</stock>
+    </producto>
+    <producto id="979">
+        <nombre>Lámpara 527</nombre>
+        <categoria>Hogar</categoria>
+        <precio>134.82</precio>
+        <stock>447</stock>
+    </producto>
+    <producto id="980">
+        <nombre>Pantalón 914</nombre>
+        <categoria>Ropa</categoria>
+        <precio>514.44</precio>
+        <stock>72</stock>
+    </producto>
+    <producto id="981">
+        <nombre>Cama 834</nombre>
+        <categoria>Hogar</categoria>
+        <precio>767.1</precio>
+        <stock>90</stock>
+    </producto>
+    <producto id="982">
+        <nombre>Auriculares 414</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>1000.95</precio>
+        <stock>286</stock>
+    </producto>
+    <producto id="983">
+        <nombre>Coche de juguete 428</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>931.49</precio>
+        <stock>166</stock>
+    </producto>
+    <producto id="984">
+        <nombre>Cereal 558</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>1374.35</precio>
+        <stock>133</stock>
+    </producto>
+    <producto id="985">
+        <nombre>Teclado 886</nombre>
+        <categoria>Informática</categoria>
+        <precio>576.92</precio>
+        <stock>75</stock>
+    </producto>
+    <producto id="986">
+        <nombre>Muñeca 266</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>289.42</precio>
+        <stock>378</stock>
+    </producto>
+    <producto id="987">
+        <nombre>Disco Duro 237</nombre>
+        <categoria>Informática</categoria>
+        <precio>1490.36</precio>
+        <stock>249</stock>
+    </producto>
+    <producto id="988">
+        <nombre>Pasta 554</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>131.35</precio>
+        <stock>343</stock>
+    </producto>
+    <producto id="989">
+        <nombre>Drone infantil 396</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>511.01</precio>
+        <stock>292</stock>
+    </producto>
+    <producto id="990">
+        <nombre>Bufanda 396</nombre>
+        <categoria>Ropa</categoria>
+        <precio>502.41</precio>
+        <stock>192</stock>
+    </producto>
+    <producto id="991">
+        <nombre>Cojín 303</nombre>
+        <categoria>Hogar</categoria>
+        <precio>1325.67</precio>
+        <stock>392</stock>
+    </producto>
+    <producto id="992">
+        <nombre>Leche 582</nombre>
+        <categoria>Alimentación</categoria>
+        <precio>131.51</precio>
+        <stock>399</stock>
+    </producto>
+    <producto id="993">
+        <nombre>Disco Duro 386</nombre>
+        <categoria>Informática</categoria>
+        <precio>968.22</precio>
+        <stock>12</stock>
+    </producto>
+    <producto id="994">
+        <nombre>Gorra 891</nombre>
+        <categoria>Ropa</categoria>
+        <precio>1239.18</precio>
+        <stock>258</stock>
+    </producto>
+    <producto id="995">
+        <nombre>Televisor 676</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>635.13</precio>
+        <stock>168</stock>
+    </producto>
+    <producto id="996">
+        <nombre>Teclado 815</nombre>
+        <categoria>Informática</categoria>
+        <precio>942.38</precio>
+        <stock>245</stock>
+    </producto>
+    <producto id="997">
+        <nombre>Monitor 402</nombre>
+        <categoria>Informática</categoria>
+        <precio>495.81</precio>
+        <stock>500</stock>
+    </producto>
+    <producto id="998">
+        <nombre>Altavoz 903</nombre>
+        <categoria>Electrónica</categoria>
+        <precio>257.14</precio>
+        <stock>70</stock>
+    </producto>
+    <producto id="999">
+        <nombre>Puzzle 534</nombre>
+        <categoria>Juguetes</categoria>
+        <precio>67.4</precio>
+        <stock>463</stock>
+    </producto>
+    <producto id="1000">
+        <nombre>Disco Duro 418</nombre>
+        <categoria>Informática</categoria>
+        <precio>1236.72</precio>
+        <stock>436</stock>
+    </producto>
+</inventario>

@@ -76,9 +76,12 @@ public class XmlManager {
             }
         }
 
-        // Escribir el contenido al archivo XML
+        // Escribir el contenido al archivo XML con formato
         TransformerFactory transformerFactory = TransformerFactory.newInstance();
         Transformer transformer = transformerFactory.newTransformer();
+        // Configurar el transformer para añadir sangría
+        transformer.setOutputProperty(javax.xml.transform.OutputKeys.INDENT, "yes");
+        transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
         DOMSource source = new DOMSource(doc);
         StreamResult result = new StreamResult(new File(filePath));
         transformer.transform(source, result);
