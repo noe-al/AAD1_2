@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+    <!-- Error: falta el atributo id -->
+    <producto>
+        <nombre>Monitor LG</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>299.99</precio>
+        <stock>5</stock>
+    </producto>
+    <!-- Error: stock con valor no numérico -->
+    <producto id="2">
+        <nombre>Ratón Gaming</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>49.99</precio>
+        <stock>muchos</stock>
+    </producto>
+    <!-- Error: falta elemento obligatorio categoria -->
+    <producto id="3">
+        <nombre>Teclado Bluetooth</nombre>
+        <precio>79.99</precio>
+        <stock>12</stock>
+    </producto>
+    <!-- Error: precio con formato incorrecto -->
+    <producto id="4">
+        <nombre>Webcam HD</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>precio_especial</precio>
+        <stock>8</stock>
+    </producto>
+</inventario>
