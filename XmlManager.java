@@ -6,6 +6,10 @@ import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
+import javax.xml.transform.stream.StreamSource;
+import javax.xml.validation.Schema;
+import javax.xml.validation.SchemaFactory;
+import javax.xml.validation.Validator;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -88,6 +92,28 @@ public class XmlManager {
     }
 
     /**
+     * Valida un archivo XML contra su esquema XSD.
+     * 
+     * @param xmlPath Ruta del archivo XML a validar
+     * @throws SAXException Si hay un error en la validación
+     * @throws IOException Si hay un error al leer los archivos
+     */
+    private static void validateXMLSchema(String xmlPath) 
+            throws SAXException, IOException {
+        try {
+            // Crear el validador de esquema
+            SchemaFactory factory = SchemaFactory.newInstance("http://www.w3.org/2001/XMLSchema");
+            Schema schema = factory.newSchema(new File("inventario.xsd"));
+            Validator validator = schema.newValidator();
+
+            // Validar el archivo XML
+            validator.validate(new StreamSource(new File(xmlPath)));
+        } catch (SAXException e) {
+            throw new SAXException("Error de validación XML: " + e.getMessage());
+        }
+    }
+
+    /**
      * Importa el inventario desde un archivo XML.
      * 
      * @param conn Conexión a la base de datos
@@ -99,6 +125,9 @@ public class XmlManager {
      */
     public static void importFromXml(Connection conn, String filePath) 
             throws SQLException, ParserConfigurationException, SAXException, IOException {
+        
+        // Validar el XML antes de importarlo
+        validateXMLSchema(filePath);
         
         DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
