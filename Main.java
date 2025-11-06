@@ -9,6 +9,9 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.transform.TransformerException;
+import org.xml.sax.SAXException;
 
 /**
  * Clase principal del sistema de gestión de inventario.
@@ -23,7 +26,7 @@ public class Main {
 
 	// 🔹 Datos de conexión con XAMPP/MySQL
 	private static final String URL_BASE = "jdbc:mysql://localhost:3306/";
-	private static final String DB_NAME = "aad1_1";
+	private static final String DB_NAME = "aad1_2";
 	private static final String URL = URL_BASE + DB_NAME;
 	private static final String USUARIO = "root";
 	private static final String PASSWORD = "";
@@ -93,6 +96,8 @@ public class Main {
 			System.out.println("7. Registrar salida de stock");
 			System.out.println("8. Ver movimientos de stock");
 			System.out.println("9. Exportar productos con stock bajo a JSON");
+			System.out.println("10. Exportar inventario a XML");
+			System.out.println("11. Importar inventario desde XML");
 			System.out.println("0. Salir");
 			System.out.print("Seleccione una opción: ");
 			
@@ -112,7 +117,7 @@ public class Main {
 					eliminarProducto(scanner);
 					break;
 				case 5:
-					añadirDesdeCSV();
+					anadirDesdeCSV();
 					break;
 				case 6:
 					registrarEntradaStock(scanner);
@@ -125,6 +130,12 @@ public class Main {
 					break;
 				case 9:
 					exportarProductosStockBajoJSON(scanner);
+					break;
+				case 10:
+					exportarInventarioXML(scanner);
+					break;
+				case 11:
+					importarInventarioXML(scanner);
 					break;
 				case 0:
 					System.out.println("¡Hasta luego!");
@@ -578,7 +589,7 @@ public class Main {
      * en un archivo de log. Solo procede con la importación si no hay errores.
      * El archivo CSV debe tener el formato: id_producto;nombre;categoria;precio;stock
      */
-	private static void añadirDesdeCSV() {
+	private static void anadirDesdeCSV() {
 		final String rutaCSV = "inventario.csv";
 		final String rutaLog = "errores.log";   
 		String lineaActual;
@@ -646,6 +657,54 @@ public class Main {
 			System.out.println("Error al leer el archivo CSV o escribir en el log: " + e.getMessage());
 		} catch (SQLException e) {
 			System.out.println("Error al conectar con la base de datos: " + e.getMessage());
+		}
+	}
+
+	/**
+     * Exporta todo el inventario a un archivo XML.
+     * Solicita al usuario la ruta del archivo de salida y guarda todos los productos
+     * en formato XML.
+     *
+     * @param scanner Scanner para leer la entrada del usuario
+     */
+	private static void exportarInventarioXML(Scanner scanner) {
+		System.out.println("\n=== EXPORTAR INVENTARIO A XML ===");
+		System.out.print("Introduzca la ruta del archivo XML de salida: ");
+		String rutaXML = scanner.nextLine();
+
+		try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+			XmlManager.exportToXml(conn, rutaXML);
+			System.out.println("Inventario exportado correctamente a XML.");
+		} catch (Exception e) {
+			System.out.println("Error al exportar el inventario a XML: " + e.getMessage());
+		}
+	}
+
+	/**
+     * Importa el inventario desde un archivo XML.
+     * Solicita al usuario la ruta del archivo XML y actualiza la base de datos
+     * con los productos contenidos en el archivo.
+     *
+     * @param scanner Scanner para leer la entrada del usuario
+     */
+	private static void importarInventarioXML(Scanner scanner) {
+		System.out.println("\n=== IMPORTAR INVENTARIO DESDE XML ===");
+		System.out.print("Introduzca la ruta del archivo XML a importar: ");
+		String rutaXML = scanner.nextLine();
+
+		System.out.println("¡ADVERTENCIA! Esta operación eliminará todos los productos actuales.");
+		System.out.print("¿Está seguro de que desea continuar? (s/n): ");
+		String confirmacion = scanner.nextLine();
+
+		if (confirmacion.toLowerCase().equals("s")) {
+			try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+				XmlManager.importFromXml(conn, rutaXML);
+				System.out.println("Inventario importado correctamente desde XML.");
+			} catch (Exception e) {
+				System.out.println("Error al importar el inventario desde XML: " + e.getMessage());
+			}
+		} else {
+			System.out.println("Operación cancelada.");
 		}
 	}
 }
