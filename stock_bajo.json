@@ -1,0 +1,44 @@
+[
+    {
+    "id_producto": 104,
+    "nombre": "Auriculares 836",
+    "categoria": "Electrónica",
+    "precio": "219.55",
+    "stock": 1
+},
+    {
+    "id_producto": 235,
+    "nombre": "Ratón 539",
+    "categoria": "Informática",
+    "precio": "902.38",
+    "stock": 1
+},
+    {
+    "id_producto": 495,
+    "nombre": "Pasta 788",
+    "categoria": "Alimentación",
+    "precio": "358.78",
+    "stock": 0
+},
+    {
+    "id_producto": 823,
+    "nombre": "Muñeca 560",
+    "categoria": "Juguetes",
+    "precio": "374.0",
+    "stock": 1
+},
+    {
+    "id_producto": 876,
+    "nombre": "Cama 186",
+    "categoria": "Hogar",
+    "precio": "457.02",
+    "stock": 1
+},
+    {
+    "id_producto": 978,
+    "nombre": "Televisor 832",
+    "categoria": "Electrónica",
+    "precio": "302.23",
+    "stock": 1
+}
+]
