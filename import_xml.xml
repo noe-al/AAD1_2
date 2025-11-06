@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+    <producto id="1">
+        <nombre>Laptop HP Pavilion</nombre>
+        <categoria>Ordenadores</categoria>
+        <precio>799.99</precio>
+        <stock>15</stock>
+    </producto>
+    <producto id="2">
+        <nombre>Monitor Dell 27"</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>299.99</precio>
+        <stock>25</stock>
+    </producto>
+    <producto id="3">
+        <nombre>Teclado Mecánico Gaming</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>89.99</precio>
+        <stock>30</stock>
+    </producto>
+    <producto id="4">
+        <nombre>Ratón Inalámbrico</nombre>
+        <categoria>Periféricos</categoria>
+        <precio>29.99</precio>
+        <stock>50</stock>
+    </producto>
+    <producto id="5">
+        <nombre>Disco SSD 1TB</nombre>
+        <categoria>Almacenamiento</categoria>
+        <precio>129.99</precio>
+        <stock>40</stock>
+    </producto>
+</inventario>
