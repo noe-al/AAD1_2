@@ -218,7 +218,12 @@ public class Main {
      */
 	private static void verProductos() {
 		try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
-			PreparedStatement ps = conn.prepareStatement("SELECT * FROM productos");
+			String sql = "SELECT * FROM productos";
+
+			// Ejecutar EXPLAIN
+        	ejecutarExplain(conn, sql);
+			PreparedStatement ps = conn.prepareStatement(sql);
+			
 			ResultSet rs = ps.executeQuery();
 			
 			System.out.println("\n=== LISTA DE PRODUCTOS ===");
@@ -249,8 +254,12 @@ public class Main {
 			String nombre = scanner.nextLine();
 			
 			try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+				String sql = "SELECT * FROM productos WHERE nombre = ?";
+
+				// Ejecutar EXPLAIN
+        		ejecutarExplain(conn, sql);
 				// Primero buscar el producto
-				PreparedStatement ps = conn.prepareStatement("SELECT * FROM productos WHERE nombre = ?");
+				PreparedStatement ps = conn.prepareStatement(sql);
 				ps.setString(1, nombre);
 				ResultSet rs = ps.executeQuery();
 				
@@ -368,8 +377,13 @@ public class Main {
             String nombre = scanner.nextLine();
             
             try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+
+				String sql = "SELECT * FROM productos WHERE nombre = ?";
+
+				// Ejecutar EXPLAIN
+        		ejecutarExplain(conn, sql);
                 // Buscar y mostrar el producto
-                PreparedStatement ps = conn.prepareStatement("SELECT * FROM productos WHERE nombre = ?");
+                PreparedStatement ps = conn.prepareStatement(sql);
                 ps.setString(1, nombre);
                 ResultSet rs = ps.executeQuery();
                 
@@ -609,6 +623,9 @@ public class Main {
 			 BufferedWriter log = new BufferedWriter(new FileWriter(rutaLog, true));
 			 Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
 			
+			// Desactivar el autocommit para usar transacciones
+			conn.setAutoCommit(false);
+			
 			// Primera pasada: validación
 			while ((lineaActual = br.readLine()) != null) {
 				lineaNumero++;
@@ -620,7 +637,31 @@ public class Main {
 						throw new Exception("Número incorrecto de columnas: " + columnas.length);
 					}
 					
-					// Aquí puedes añadir más validaciones si es necesario
+					// Validaciones adicionales
+					if (lineaNumero > 1) { // Ignorar la primera línea (encabezados)
+						try {
+							// Validar que el ID sea un número
+							Integer.parseInt(columnas[0].trim());
+							
+							// Validar que el nombre y categoría no estén vacíos
+							if (columnas[1].trim().isEmpty() || columnas[2].trim().isEmpty()) {
+								throw new Exception("El nombre y la categoría no pueden estar vacíos");
+							}
+							
+							// Validar el formato del precio (debe contener números y opcionalmente '€' y ',')
+							if (!columnas[3].trim().matches("^\\d+([,.]\\d{1,2})?€?$")) {
+								throw new Exception("Formato de precio inválido: " + columnas[3]);
+							}
+							
+							// Validar que el stock sea un número positivo
+							int stock = Integer.parseInt(columnas[4].trim());
+							if (stock < 0) {
+								throw new Exception("El stock no puede ser negativo: " + stock);
+							}
+						} catch (NumberFormatException e) {
+							throw new Exception("Error en formato numérico: " + e.getMessage());
+						}
+					}
 					
 				} catch (Exception e) {
 					// Registrar error en archivo log
@@ -637,26 +678,44 @@ public class Main {
 			if (!hayErrores) {
 				System.out.println("El archivo CSV es correcto. Añadiendo productos a la base de datos...");
 				
-				// Segunda pasada: inserción en la base de datos
-				try (BufferedReader br2 = new BufferedReader(new FileReader(rutaCSV))) {
-					// Saltar la primera línea (encabezados)
-					br2.readLine();
-					
-					String sql = "INSERT INTO productos (id_producto, nombre, categoria, precio, stock) VALUES (?, ?, ?, ?, ?)";
-					PreparedStatement ps = conn.prepareStatement(sql);
-					
-					while ((lineaActual = br2.readLine()) != null) {
-						String[] columnas = lineaActual.split(";");
+				try {
+					// Segunda pasada: inserción en la base de datos
+					try (BufferedReader br2 = new BufferedReader(new FileReader(rutaCSV))) {
+						// Saltar la primera línea (encabezados)
+						br2.readLine();
 						
-						ps.setInt(1, Integer.parseInt(columnas[0].trim())); //id_producto
-						ps.setString(2, columnas[1].trim()); // nombre
-						ps.setString(3, columnas[2].trim()); // categoria
-						ps.setString(4, columnas[3].trim()); // precio
-						ps.setInt(5, Integer.parseInt(columnas[4].trim())); // stock
+						String sql = "INSERT INTO productos (id_producto, nombre, categoria, precio, stock) VALUES (?, ?, ?, ?, ?)";
+						PreparedStatement ps = conn.prepareStatement(sql);
 						
-						ps.executeUpdate();
+						while ((lineaActual = br2.readLine()) != null) {
+							String[] columnas = lineaActual.split(";");
+							
+							ps.setInt(1, Integer.parseInt(columnas[0].trim())); //id_producto
+							ps.setString(2, columnas[1].trim()); // nombre
+							ps.setString(3, columnas[2].trim()); // categoria
+							ps.setString(4, columnas[3].trim()); // precio
+							ps.setInt(5, Integer.parseInt(columnas[4].trim())); // stock
+							
+							ps.executeUpdate();
+						}
+						
+						// Si llegamos aquí sin errores, confirmamos la transacción
+						conn.commit();
+						System.out.println("Productos añadidos correctamente.");
 					}
-					System.out.println("Productos añadidos correctamente.");
+				} catch (Exception e) {
+					// Si hay cualquier error durante la inserción, hacemos rollback
+					conn.rollback();
+					System.out.println("Error durante la importación. Se ha revertido la operación.");
+					System.out.println("Error: " + e.getMessage());
+					
+					// Registrar el error en el log
+					log.write("Error durante la importación: " + e.getMessage());
+					log.newLine();
+					log.write("Se ha realizado rollback de la transacción.");
+					log.newLine();
+					log.write("--------------------------------------------------");
+					log.newLine();
 				}
 			} else {
 				System.out.println("Se encontraron errores en el archivo CSV. Revise el archivo de log para más detalles.");
@@ -785,4 +844,29 @@ public class Main {
             System.out.println("Asegúrese de usar el formato YYYY-MM-DD (ejemplo: 2025-11-07)");
         }
     }//verMovimientosPorFecha
+
+	private static void ejecutarExplain(Connection conn, String sql) {
+		try (PreparedStatement ps = conn.prepareStatement("EXPLAIN " + sql)) {
+			ResultSet rs = ps.executeQuery();
+			
+			System.out.println("\n📊 PLAN DE EJECUCIÓN (EXPLAIN):");
+			while (rs.next()) {
+				System.out.printf(
+					"id=%s | select_type=%s | table=%s | type=%s | possible_keys=%s | key=%s | rows=%s | Extra=%s\n",
+					rs.getString("id"),
+					rs.getString("select_type"),
+					rs.getString("table"),
+					rs.getString("type"),
+					rs.getString("possible_keys"),
+					rs.getString("key"),
+					rs.getString("rows"),
+					rs.getString("Extra")
+				);
+			}
+			System.out.println("---------------------------------------------");
+		} catch (SQLException e) {
+			System.out.println("Error ejecutando EXPLAIN: " + e.getMessage());
+		}
+	}
+
 }//Main class
