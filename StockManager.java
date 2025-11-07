@@ -99,6 +99,53 @@ public class StockManager {
     }
 
     /**
+     * Consulta el histórico de movimientos de stock dentro de un rango de fechas.
+     * Muestra todos los movimientos ordenados por fecha, incluyendo el nombre del producto.
+     *
+     * @param conn Conexión a la base de datos
+     * @param fechaInicio Fecha de inicio del rango (formato: YYYY-MM-DD)
+     * @param fechaFin Fecha de fin del rango (formato: YYYY-MM-DD)
+     * @throws SQLException Si hay un error al consultar los movimientos
+     * @throws IllegalArgumentException Si el formato de las fechas es incorrecto
+     */
+    public static void consultarMovimientosPorFecha(Connection conn, String fechaInicio, String fechaFin) throws SQLException {
+        // Validar el formato de las fechas (YYYY-MM-DD)
+        if (!fechaInicio.matches("\\d{4}-\\d{2}-\\d{2}") || !fechaFin.matches("\\d{4}-\\d{2}-\\d{2}")) {
+            throw new IllegalArgumentException("Formato de fecha incorrecto. Use YYYY-MM-DD");
+        }
+
+        String sql = """
+            SELECT m.id_movimiento, p.nombre, p.categoria, m.tipo_movimiento, 
+                   m.cantidad, m.fecha_movimiento
+            FROM movimientos_stock m
+            JOIN productos p ON m.id_producto = p.id_producto
+            WHERE DATE(m.fecha_movimiento) BETWEEN ? AND ?
+            ORDER BY m.fecha_movimiento DESC
+        """;
+
+        try (PreparedStatement ps = conn.prepareStatement(sql)) {
+            ps.setString(1, fechaInicio);
+            ps.setString(2, fechaFin);
+            
+            try (var rs = ps.executeQuery()) {
+                System.out.println("\n=== HISTÓRICO DE MOVIMIENTOS POR FECHA ===");
+                System.out.println("Período: " + fechaInicio + " hasta " + fechaFin);
+                System.out.println("------------------------");
+                
+                while (rs.next()) {
+                    System.out.println("ID Movimiento: " + rs.getInt("id_movimiento"));
+                    System.out.println("Producto: " + rs.getString("nombre"));
+                    System.out.println("Categoría: " + rs.getString("categoria"));
+                    System.out.println("Tipo: " + rs.getString("tipo_movimiento"));
+                    System.out.println("Cantidad: " + rs.getInt("cantidad"));
+                    System.out.println("Fecha: " + rs.getTimestamp("fecha_movimiento"));
+                    System.out.println("------------------------");
+                }
+            }
+        }
+    }
+
+    /**
      * Consulta los N productos más vendidos basado en la cantidad total de salidas.
      * Para cada producto muestra: ID, nombre, descripción y cantidad total vendida.
      *

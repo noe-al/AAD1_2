@@ -97,6 +97,7 @@ public class Main {
 			System.out.println("11. Importar inventario desde XML");
 			System.out.println("12. Ver top N productos más vendidos");
 			System.out.println("13. Ver valor total de stock por categoría");
+			System.out.println("14. Ver histórico de movimientos por fecha");
 			System.out.println("0. Salir");
 			System.out.print("Seleccione una opción: ");
 			
@@ -141,6 +142,9 @@ public class Main {
 					break;
 				case 13:
 					verValorStockPorCategoria();
+					break;
+				case 14:
+					verMovimientosPorFecha(scanner);
 					break;
 				case 0:
 					System.out.println("¡Hasta luego!");
@@ -753,4 +757,32 @@ public class Main {
             System.out.println("Error al consultar el valor del stock por categoría: " + e.getMessage());
         }
     }//verValorStockPorCategoria
+
+	/**
+     * Muestra el histórico de movimientos de stock dentro de un rango de fechas.
+     * Solicita al usuario las fechas de inicio y fin del período a consultar.
+     *
+     * @param scanner Scanner para leer la entrada del usuario
+     */
+    private static void verMovimientosPorFecha(Scanner scanner) {
+        try {
+            System.out.println("\n=== VER MOVIMIENTOS POR RANGO DE FECHAS ===");
+            System.out.println("Ingrese las fechas en formato YYYY-MM-DD");
+            
+            System.out.print("Fecha de inicio: ");
+            String fechaInicio = scanner.nextLine();
+            
+            System.out.print("Fecha de fin: ");
+            String fechaFin = scanner.nextLine();
+
+            try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+                StockManager.consultarMovimientosPorFecha(conn, fechaInicio, fechaFin);
+            } catch (SQLException e) {
+                System.out.println("Error al consultar los movimientos: " + e.getMessage());
+            }
+        } catch (IllegalArgumentException e) {
+            System.out.println("Error: " + e.getMessage());
+            System.out.println("Asegúrese de usar el formato YYYY-MM-DD (ejemplo: 2025-11-07)");
+        }
+    }//verMovimientosPorFecha
 }//Main class
