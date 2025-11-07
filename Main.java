@@ -95,6 +95,8 @@ public class Main {
 			System.out.println("9. Exportar productos con stock bajo a JSON");
 			System.out.println("10. Exportar inventario a XML");
 			System.out.println("11. Importar inventario desde XML");
+			System.out.println("12. Ver top N productos más vendidos");
+			System.out.println("13. Ver valor total de stock por categoría");
 			System.out.println("0. Salir");
 			System.out.print("Seleccione una opción: ");
 			
@@ -133,6 +135,12 @@ public class Main {
 					break;
 				case 11:
 					importarInventarioXML(scanner);
+					break;
+				case 12:
+					verTopProductosMasVendidos(scanner);
+					break;
+				case 13:
+					verValorStockPorCategoria();
 					break;
 				case 0:
 					System.out.println("¡Hasta luego!");
@@ -704,4 +712,45 @@ public class Main {
 			System.out.println("Operación cancelada.");
 		}
 	}
-}
+
+	/**
+     * Muestra los N productos más vendidos del inventario.
+     * Solicita al usuario el número de productos a mostrar y presenta
+     * un listado ordenado por cantidad total de ventas.
+     *
+     * @param scanner Scanner para leer la entrada del usuario
+     */
+    private static void verTopProductosMasVendidos(Scanner scanner) {
+        try {
+            System.out.println("\n=== VER TOP PRODUCTOS MÁS VENDIDOS ===");
+            System.out.print("Introduzca el número de productos a mostrar: ");
+            int limit = Integer.parseInt(scanner.nextLine());
+
+            if (limit <= 0) {
+                System.out.println("Error: El número debe ser mayor que 0");
+                return;
+            }
+
+            try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+                StockManager.consultarProductosMasVendidos(conn, limit);
+            } catch (SQLException e) {
+                System.out.println("Error al consultar los productos más vendidos: " + e.getMessage());
+            }
+        } catch (NumberFormatException e) {
+            System.out.println("Error: Debe introducir un número válido.");
+        }
+    }//verTopProductosMasVendidos
+
+	/**
+     * Muestra el valor total del stock agrupado por categorías.
+     * Para cada categoría muestra el número total de productos y
+     * el valor total del stock (precio * cantidad).
+     */
+    private static void verValorStockPorCategoria() {
+        try (Connection conn = DriverManager.getConnection(URL, USUARIO, PASSWORD)) {
+            StockManager.consultarValorStockPorCategoria(conn);
+        } catch (SQLException e) {
+            System.out.println("Error al consultar el valor del stock por categoría: " + e.getMessage());
+        }
+    }//verValorStockPorCategoria
+}//Main class

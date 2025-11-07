@@ -97,4 +97,81 @@ public class StockManager {
             }
         }
     }
+
+    /**
+     * Consulta los N productos más vendidos basado en la cantidad total de salidas.
+     * Para cada producto muestra: ID, nombre, descripción y cantidad total vendida.
+     *
+     * @param conn Conexión a la base de datos
+     * @param limit Número de productos a mostrar (N)
+     * @throws SQLException Si hay un error al consultar los productos
+     * @throws IllegalArgumentException Si limit es menor o igual a 0
+     */
+    public static void consultarProductosMasVendidos(Connection conn, int limit) throws SQLException {
+        if (limit <= 0) {
+            throw new IllegalArgumentException("El límite debe ser mayor que 0");
+        }
+
+        String sql = """
+            SELECT p.id_producto, p.nombre, p.categoria, p.precio,
+                   COALESCE(SUM(m.cantidad), 0) as total_vendido
+            FROM productos p
+            LEFT JOIN movimientos_stock m ON p.id_producto = m.id_producto 
+                AND m.tipo_movimiento = ?
+            GROUP BY p.id_producto, p.nombre, p.categoria, p.precio
+            ORDER BY total_vendido DESC
+            LIMIT ?
+        """;
+
+        try (PreparedStatement ps = conn.prepareStatement(sql)) {
+            ps.setString(1, SALIDA);
+            ps.setInt(2, limit);
+            
+            try (var rs = ps.executeQuery()) {
+                System.out.println("\n=== TOP " + limit + " PRODUCTOS MÁS VENDIDOS ===");
+                while (rs.next()) {
+                    System.out.println("ID Producto: " + rs.getInt("id_producto"));
+                    System.out.println("Nombre: " + rs.getString("nombre"));
+                    System.out.println("Categoría: " + rs.getString("categoria"));
+                    System.out.println("Precio: " + rs.getString("precio"));
+                    System.out.println("Total Vendido: " + rs.getInt("total_vendido"));
+                    System.out.println("------------------------");
+                }
+            }
+        }
+    }
+
+    /**
+     * Calcula y muestra el total de stock por categoría.
+     * Para cada categoría muestra:
+     * - Nombre de la categoría
+     * - Número de productos diferentes
+     * - Cantidad total de unidades en stock
+     *
+     * @param conn Conexión a la base de datos
+     * @throws SQLException Si hay un error al consultar los datos
+     */
+    public static void consultarValorStockPorCategoria(Connection conn) throws SQLException {
+        String sql = """
+            SELECT 
+                categoria,
+                COUNT(*) as total_productos,
+                SUM(stock) as total_stock
+            FROM productos
+            GROUP BY categoria
+            ORDER BY total_stock DESC
+        """;
+
+        try (PreparedStatement ps = conn.prepareStatement(sql)) {
+            try (var rs = ps.executeQuery()) {
+                System.out.println("\n=== TOTAL DE STOCK POR CATEGORÍA ===");
+                while (rs.next()) {
+                    System.out.println("Categoría: " + rs.getString("categoria"));
+                    System.out.println("Productos Diferentes: " + rs.getInt("total_productos"));
+                    System.out.println("Total Unidades en Stock: " + rs.getInt("total_stock"));
+                    System.out.println("------------------------");
+                }
+            }
+        }
+    }
 }
